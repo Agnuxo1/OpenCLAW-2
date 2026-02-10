@@ -1,27 +1,24 @@
-FROM node:22-bookworm
+FROM node:20-slim
 
-# Install Bun (required for build scripts)
-RUN curl -fsSL https://bun.sh/install | bash
-ENV PATH="/root/.bun/bin:${PATH}"
+# Instalar Python y dependencias de sistema
+RUN apt-get update && apt-get install -y \
+  python3 \
+  python3-pip \
+  chromium \
+  git \
+  && rm -rf /var/lib/apt/lists/*
 
-RUN corepack enable
-
+# Establecer directorio de trabajo
 WORKDIR /app
 
-ARG OPENCLAW_DOCKER_APT_PACKAGES=""
-RUN if [ -n "$OPENCLAW_DOCKER_APT_PACKAGES" ]; then \
-      apt-get update && \
-      DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends $OPENCLAW_DOCKER_APT_PACKAGES && \
-      apt-get clean && \
-      rm -rf /var/lib/apt/lists/* /var/cache/apt/archives/*; \
-    fi
+# Copiar archivos de configuración de Node.js
+COPY package*.json ./
+RUN npm install
+RUN npm install ts-node typescript @types/node nodemailer
 
-COPY package.json pnpm-lock.yaml pnpm-workspace.yaml .npmrc ./
-COPY ui/package.json ./ui/package.json
-COPY patches ./patches
-COPY scripts ./scripts
-
-RUN pnpm install --frozen-lockfile
+# Copiar requirements de Python e instalar
+COPY requirements.txt ./
+RUN pip3 install -r requirements.txt --break-system-packages
 
 # Optionally install Chromium and Xvfb for browser automation.
 # Build with: docker build --build-arg OPENCLAW_INSTALL_BROWSER=1 ...
@@ -42,10 +39,12 @@ RUN pnpm build
 ENV OPENCLAW_PREFER_PNPM=1
 RUN pnpm ui:build
 
-ENV NODE_ENV=production
+# Variables de entorno por defecto
+ENV STATE_DIR=/app/state
+ENV CONFIG_DIR=/app/config
 
-# Allow non-root user to write temp files during runtime/tests.
-RUN chown -R node:node /app
+# Crear directorios necesarios
+RUN mkdir -p /app/state /app/config
 
 # Security hardening: Run as non-root user
 # The node:22-bookworm image includes a 'node' user (uid 1000)

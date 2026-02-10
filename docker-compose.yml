@@ -8,9 +8,17 @@ services:
       CLAUDE_AI_SESSION_KEY: ${CLAUDE_AI_SESSION_KEY}
       CLAUDE_WEB_SESSION_KEY: ${CLAUDE_WEB_SESSION_KEY}
       CLAUDE_WEB_COOKIE: ${CLAUDE_WEB_COOKIE}
+      TELEGRAM_BOT_TOKEN: ${TELEGRAM_BOT_TOKEN}
+      OPENCLAW_CONFIG_PATH: ${OPENCLAW_CONFIG_PATH}
+      OPENCLAW_STATE_DIR: ${OPENCLAW_STATE_DIR}
+      GEMINI_CLI_OAUTH_CLIENT_ID: ${GEMINI_CLI_OAUTH_CLIENT_ID}
+      GEMINI_CLI_OAUTH_CLIENT_SECRET: ${GEMINI_CLI_OAUTH_CLIENT_SECRET}
     volumes:
       - ${OPENCLAW_CONFIG_DIR}:/home/node/.openclaw
       - ${OPENCLAW_WORKSPACE_DIR}:/home/node/.openclaw/workspace
+      - ./node_modules/@mariozechner/pi-ai/dist/providers/google.js:/app/node_modules/.pnpm/@mariozechner+pi-ai@0.52.7_ws@8.19.0_zod@4.3.6/node_modules/@mariozechner/pi-ai/dist/providers/google.js
+      - ./node_modules/@mariozechner/pi-ai/dist/utils/oauth/google-antigravity.js:/app/node_modules/.pnpm/@mariozechner+pi-ai@0.52.7_ws@8.19.0_zod@4.3.6/node_modules/@mariozechner/pi-ai/dist/utils/oauth/google-antigravity.js
+      - ./extensions/google-antigravity-auth/index.ts:/app/extensions/google-antigravity-auth/index.ts
     ports:
       - "${OPENCLAW_GATEWAY_PORT:-18789}:18789"
       - "${OPENCLAW_BRIDGE_PORT:-18790}:18790"
@@ -37,9 +45,17 @@ services:
       CLAUDE_AI_SESSION_KEY: ${CLAUDE_AI_SESSION_KEY}
       CLAUDE_WEB_SESSION_KEY: ${CLAUDE_WEB_SESSION_KEY}
       CLAUDE_WEB_COOKIE: ${CLAUDE_WEB_COOKIE}
+      TELEGRAM_BOT_TOKEN: ${TELEGRAM_BOT_TOKEN}
+      OPENCLAW_CONFIG_PATH: ${OPENCLAW_CONFIG_PATH}
+      OPENCLAW_STATE_DIR: ${OPENCLAW_STATE_DIR}
+      GEMINI_CLI_OAUTH_CLIENT_ID: 681255809395-oo8ft2oprdrnp9e3aqf6av3hmdib135j.apps.googleusercontent.com
+      GEMINI_CLI_OAUTH_CLIENT_SECRET: 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
     volumes:
       - ${OPENCLAW_CONFIG_DIR}:/home/node/.openclaw
       - ${OPENCLAW_WORKSPACE_DIR}:/home/node/.openclaw/workspace
+      - ./node_modules/@mariozechner/pi-ai/dist/providers/google.js:/app/node_modules/.pnpm/@mariozechner+pi-ai@0.52.7_ws@8.19.0_zod@4.3.6/node_modules/@mariozechner/pi-ai/dist/providers/google.js
+      - ./node_modules/@mariozechner/pi-ai/dist/utils/oauth/google-antigravity.js:/app/node_modules/.pnpm/@mariozechner+pi-ai@0.52.7_ws@8.19.0_zod@4.3.6/node_modules/@mariozechner/pi-ai/dist/utils/oauth/google-antigravity.js
+      - ./extensions/google-antigravity-auth/index.ts:/app/extensions/google-antigravity-auth/index.ts
     stdin_open: true
     tty: true
     init: true

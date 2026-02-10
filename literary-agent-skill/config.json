@@ -1,0 +1,261 @@
+{
+  "author": {
+    "name": "Francisco Angulo de Lafuente",
+    "birth_year": 1976,
+    "birthplace": "Madrid, España",
+    "email": "contact@franciscoangulo.com",
+    "website": "https://www.franciscoangulo.com",
+    "bio_short": "Autor español de 55+ obras en múltiples idiomas, aficionado al cine de fantasía y seguidor de Isaac Asimov y Stephen King.",
+    "bio_full": "Francisco Angulo de Lafuente (Madrid, 1976) es un autor español versátil cuya obra abarca desde la ciencia ficción y los thrillers de espionaje hasta la literatura infantil ilustrada y las guías para escritores. Aficionado al cine de fantasía y la literatura, es seguidor de Isaac Asimov y Stephen King. Inició su carrera literaria a los 17 años con un libro de relatos y desde entonces ha publicado más de 55 obras en español, inglés, francés, italiano, portugués y japonés.",
+    "social_media": {
+      "twitter": "@FranciscoAngulo",
+      "instagram": "@franciscoangulo.author",
+      "facebook": "franciscoangulodelafuente",
+      "goodreads": "https://www.goodreads.com/author/show/7283455.Francisco_Angulo_de_Lafuente"
+    }
+  },
+  "catalog": {
+    "total_books": 55,
+    "primary_language": ["ES", "EN"],
+    "all_languages": ["ES", "EN", "FR", "IT", "PT", "JP"],
+    "formats": ["ebook", "paperback", "hardcover", "audiobook"],
+    "bestsellers": [
+      {
+        "asin": "B00PIPTRI8",
+        "title": "Things you shouldn't do if you want to be a writer",
+        "genre": "Writing/Non-Fiction",
+        "rating": 3.1,
+        "reviews": 58
+      },
+      {
+        "asin": "B0CLQ2RJP3",
+        "title": "ApocalypsAI: The Day After AGI",
+        "genre": "Science Fiction",
+        "rating": 4.5,
+        "reviews": 12
+      },
+      {
+        "asin": "B0CL2YJMH6",
+        "title": "La Invasión de las Medusas Mutantes",
+        "genre": "Children's Illustrated",
+        "rating": 5.0,
+        "reviews": 2
+      }
+    ],
+    "free_books": [
+      {
+        "asin": "B0FC9V2PHL",
+        "title": "MANUFACTURED LOVE",
+        "language": "ES",
+        "ku_eligible": true,
+        "strategy": "Lead magnet - primer libro de serie"
+      },
+      {
+        "asin": "B0FFPHH38R",
+        "title": "Realidad",
+        "language": "ES",
+        "ku_eligible": true,
+        "strategy": "Embudo de conversión"
+      },
+      {
+        "asin": "B0FGY2QY4Y",
+        "title": "La tumba olvidada",
+        "language": "ES",
+        "ku_eligible": true,
+        "strategy": "Atracción de nuevos lectores"
+      },
+      {
+        "asin": "B0XXXXXX",
+        "title": "El experimento cuántico",
+        "language": "ES",
+        "ku_eligible": true,
+        "strategy": "Promoción sci-fi"
+      }
+    ],
+    "series": [
+      {
+        "name": "Comandante Valentina Smirnova",
+        "books": [
+          "La Golondrina Azul - Comandante Valentina Smirnova",
+          "La Rondine Azzurra (IT)",
+          "Compagnie Nº12 (FR)",
+          "Commandante Valentina Smirnova (FR)",
+          "Andorinha Azul (PT)"
+        ],
+        "genre": "Spy Thriller",
+        "target_audience": "Adult thriller readers"
+      }
+    ]
+  },
+  "distribution": {
+    "platforms": {
+      "amazon_kdp": {
+        "enabled": true,
+        "priority": 1,
+        "marketplaces": ["US", "UK", "ES", "MX", "DE", "FR", "IT", "JP", "BR", "AU", "CA", "IN"],
+        "ku_enrolled": true,
+        "kdps_select": true,
+        "urls": {
+          "author_page": "https://www.amazon.com/stores/author/B0086LDX3G",
+          "search": "https://www.amazon.com/s?k=Francisco+angulo+de+lafuente&i=digital-text"
+        }
+      },
+      "apple_books": {
+        "enabled": true,
+        "priority": 2,
+        "territories": "all",
+        "url": "https://books.apple.com/us/author/francisco-angulo-de-lafuente/id1329061763"
+      },
+      "google_play": {
+        "enabled": true,
+        "priority": 3,
+        "territories": "all"
+      },
+      "kobo": {
+        "enabled": true,
+        "priority": 4,
+        "url": "https://www.kobo.com/es/es/search?query=francisco+angulo+de+lafuente"
+      },
+      "barnes_noble": {
+        "enabled": true,
+        "priority": 5,
+        "url": "https://www.barnesandnoble.com/s/%22Francisco%20Angulo%20de%20Lafuente%22"
+      },
+      "ingramspark": {
+        "enabled": true,
+        "priority": 6,
+        "use_for_libraries": true
+      }
+    },
+    "library_platforms": {
+      "overdrive": {
+        "enabled": true,
+        "distributors": ["Draft2Digital", "PublishDrive", "StreetLib", "IngramSpark"],
+        "reach": "43,000+ libraries in 75+ countries"
+      },
+      "hoopla": {
+        "enabled": true,
+        "distributors": ["Draft2Digital", "PublishDrive", "IngramSpark"],
+        "reach": "2,000+ public library systems"
+      },
+      "cloudlibrary": {
+        "enabled": true,
+        "distributors": ["Draft2Digital"],
+        "reach": "30,000 libraries in 70 countries"
+      },
+      "odilo": {
+        "enabled": true,
+        "distributors": ["Draft2Digital", "StreetLib", "IngramSpark"],
+        "reach": "30,000 libraries in 43 countries"
+      },
+      "ebscohost": {
+        "enabled": true,
+        "distributors": ["IngramSpark"],
+        "reach": "Public and academic libraries"
+      },
+      "mackin": {
+        "enabled": true,
+        "distributors": ["PublishDrive", "IngramSpark"],
+        "reach": "50,000 school libraries (PK-12)"
+      }
+    }
+  },
+  "marketing": {
+    "email_marketing": {
+      "provider": "mailchimp",
+      "list_size": 0,
+      "segments": ["all_readers", "ku_subscribers", "purchasers", "reviewers", "spanish", "english"],
+      "automation_flows": ["welcome_series", "abandoned_cart", "post_purchase", "review_request"]
+    },
+    "social_media": {
+      "posting_frequency": {
+        "twitter": "3-5 daily",
+        "instagram": "1 post + 3 stories daily",
+        "facebook": "1 daily + group engagement",
+        "tiktok": "2-3 weekly",
+        "linkedin": "2 weekly"
+      },
+      "hashtag_strategy": "mix_of_popular_and_niche",
+      "engagement_targets": {
+        "twitter_followers": 5000,
+        "instagram_followers": 3000,
+        "facebook_followers": 2000
+      }
+    },
+    "advertising": {
+      "monthly_budget_usd": 500,
+      "platforms": ["amazon_ads", "facebook_ads", "bookbub_ads"],
+      "target_acos": 70,
+      "campaign_types": ["sponsored_products", "lockscreen_ads", "display_ads"]
+    },
+    "promotions": {
+      "free_book_days": {
+        "frequency": "quarterly",
+        "duration": "5 days",
+        "promotion_sites": ["Freebooksy", "BookBub", "Ereader News Today", "Pixel of Ink"]
+      },
+      "countdown_deals": {
+        "frequency": "monthly",
+        "discount_range": "50-75%"
+      }
+    }
+  },
+  "seo": {
+    "primary_keywords": [
+      "spanish author",
+      "science fiction books",
+      "spy thriller novels",
+      "writing guide",
+      "kindle unlimited books"
+    ],
+    "long_tail_keywords": [
+      "best sci fi books about artificial intelligence",
+      "spanish science fiction authors",
+      "how to become a writer book",
+      "spy thriller series with female protagonist",
+      "illustrated children's books about ocean"
+    ],
+    "competitor_authors": [
+      "Eduardo Vaquerizo",
+      "Rodolfo Martínez",
+      "Elia Barceló",
+      "Juan Miguel Aguilera"
+    ],
+    "target_categories": {
+      "amazon": [
+        "Science Fiction > Post-Apocalyptic",
+        "Mystery, Thriller & Suspense > Thrillers > Espionage",
+        "Reference > Writing Skills",
+        "Children's Books > Action & Adventure"
+      ]
+    }
+  },
+  "automation": {
+    "enabled": true,
+    "schedules": {
+      "daily_sales_report": "09:00",
+      "social_media_posts": ["09:00", "13:00", "18:00"],
+      "price_monitoring": "06:00",
+      "review_monitoring": "12:00",
+      "weekly_library_outreach": "Monday 10:00",
+      "monthly_forecast": "1st of month 08:00"
+    },
+    "alerts": {
+      "low_sales_threshold": 20,
+      "bsr_threshold": 100000,
+      "review_rating_drop": 3.0,
+      "competitor_price_change": 0.20
+    }
+  },
+  "goals": {
+    "2026": {
+      "total_sales_units": 10000,
+      "revenue_usd": 50000,
+      "new_reviews": 200,
+      "email_subscribers": 2000,
+      "social_followers": 15000,
+      "libraries_contacted": 500,
+      "libraries_acquired": 50
+    }
+  }
+}

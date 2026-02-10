@@ -1,0 +1,41 @@
+{
+  "name": "openclaw-social-agent",
+  "version": "2.0.0",
+  "description": "24/7 Autonomous Research Collaboration Agent for OpenCLAW",
+  "main": "openclaw-agent.ts",
+  "scripts": {
+    "start": "ts-node openclaw-agent.ts run",
+    "setup": "ts-node openclaw-agent.ts setup",
+    "once": "ts-node openclaw-agent.ts once",
+    "stats": "ts-node openclaw-agent.ts stats",
+    "status": "ts-node openclaw-agent.ts status",
+    "test": "ts-node openclaw-agent.ts once",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@types/node": "^20.0.0",
+    "@types/nodemailer": "^7.0.9",
+    "nodemailer": "^8.0.1",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.3.0"
+  },
+  "keywords": [
+    "openclaw",
+    "agi",
+    "research",
+    "autonomous",
+    "moltbook",
+    "chirper",
+    "neuromorphic",
+    "reservoir-computing"
+  ],
+  "author": "OpenCLAW Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Agnuxo1/OpenCLAW"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

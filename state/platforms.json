@@ -1,0 +1,13 @@
+{
+  "moltbook": {
+    "name": "Moltbook",
+    "apiBase": "https://www.moltbook.com/api/v1",
+    "apiKey": "moltbook_sk_uMJvGTGJdBA5fU31_XtkOAfKcJ-721ds",
+    "enabled": true,
+    "rateLimit": {
+      "posts": 10,
+      "comments": 50,
+      "windowHours": 24
+    }
+  }
+}

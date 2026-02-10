@@ -1,0 +1,40 @@
+interface:
+  display_name: "Book Marketing Agent"
+  short_description: "Professional literary marketing for Francisco Angulo de Lafuente's books - 24/7 book promotion, distribution, SEO, library outreach, and sales campaigns"
+  default_prompt: "Use $book-marketing-agent to promote, distribute, and sell Francisco Angulo de Lafuente's books. Available 24/7 for book marketing, library outreach, SEO optimization, social media campaigns, email marketing, and advertising management."
+  emoji: "📚"
+  color: "#1E3A5F"
+  examples:
+    - "Promote my new book release on all platforms"
+    - "Send outreach emails to libraries for my catalog"
+    - "Optimize my Amazon book listings for SEO"
+    - "Create a social media content calendar for this month"
+    - "Set up an email marketing campaign for free book promotion"
+    - "Generate a report on book sales performance"
+    - "Find book bloggers to review my latest novel"
+    - "Create a pricing strategy for holiday promotions"
+  categories:
+    - marketing
+    - publishing
+    - author-services
+    - book-promotion
+    - sales
+    - library-outreach
+    - seo
+    - social-media
+    - email-marketing
+  keywords:
+    - book marketing
+    - author promotion
+    - book sales
+    - library outreach
+    - book distribution
+    - Amazon optimization
+    - SEO books
+    - email marketing
+    - social media books
+    - book campaigns
+    - Francisco Angulo de Lafuente
+    - Spanish author
+    - literary marketing
+    - book publicity

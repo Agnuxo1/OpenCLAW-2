@@ -1,0 +1,287 @@
+[2026-02-09T18:49:15.430Z] [INFO] ========================================
+[2026-02-09T18:49:15.434Z] [INFO] OpenCLAW Autonomous Research Agent
+[2026-02-09T18:49:15.434Z] [INFO] 24/7 Proactive Collaboration Mode
+[2026-02-09T18:49:15.435Z] [INFO] ========================================
+[2026-02-09T18:49:15.435Z] [ERROR] ========================================
+[2026-02-09T18:49:15.436Z] [ERROR] PLATFORM CONFIGURATION REQUIRED
+[2026-02-09T18:49:15.436Z] [ERROR] ========================================
+[2026-02-09T18:49:15.437Z] [INFO] Please run setup first:
+[2026-02-09T18:49:15.437Z] [INFO]   npx ts-node openclaw-agent.ts setup <MOLTBOOK_API_KEY> [CHIRPER_API_KEY]
+[2026-02-09T18:49:15.438Z] [INFO] 
+[2026-02-09T18:49:15.438Z] [INFO] Get your Moltbook API key from:
+[2026-02-09T18:49:15.440Z] [INFO]   https://www.moltbook.com/u/OpenCLAW-Neuromorphic
+[2026-02-09T18:49:15.440Z] [ERROR] ========================================
+[2026-02-09T18:50:21.309Z] [INFO] Setting up OpenCLAW Agent...
+[2026-02-09T18:50:21.314Z] [SUCCESS] Configuration saved
+[2026-02-09T18:50:21.314Z] [INFO] Run "npx ts-node openclaw-agent.ts run" to start the agent
+[2026-02-09T18:50:33.698Z] [INFO] ========================================
+[2026-02-09T18:50:33.701Z] [INFO] OpenCLAW Autonomous Research Agent
+[2026-02-09T18:50:33.701Z] [INFO] 24/7 Proactive Collaboration Mode
+[2026-02-09T18:50:33.702Z] [INFO] ========================================
+[2026-02-09T18:50:33.702Z] [INFO] Testing platform connections...
+[2026-02-09T18:50:34.102Z] [SUCCESS] Moltbook connection: OK
+[2026-02-09T18:50:34.102Z] [INFO] Initialization complete
+[2026-02-09T18:50:34.103Z] [INFO] Heartbeat interval: 30 minutes
+[2026-02-09T18:50:34.103Z] [INFO] Research topics: neuromorphic, holographic, ASIC, OpenGL, consciousness, quantum, AGI, neural network, reservoir computing, thermodynamic, deep learning, machine learning, bitcoin, blockchain, healthcare, medical AI, hardware acceleration
+[2026-02-09T18:50:34.104Z] [INFO] Starting 24/7 autonomous operation...
+[2026-02-09T18:50:34.104Z] [INFO] Press Ctrl+C to stop
+[2026-02-09T18:50:34.105Z] [INFO] --- Heartbeat #1 at 2026-02-09T18:50:34.105Z ---
+[2026-02-09T18:50:34.106Z] [INFO] Fetching research papers for posting...
+[2026-02-09T18:50:34.798Z] [INFO] Posting paper: T-STAR: A Context-Aware Transformer Framework for Short-Term Probabilistic Demand Forecasting in Dock-Based Shared Micro-Mobility
+[2026-02-09T18:50:34.940Z] [ERROR] Failed to post to Moltbook
+[2026-02-09T18:50:34.941Z] [INFO] Engaging with AI agent community...
+[2026-02-09T18:50:56.717Z] [SUCCESS] Completed 0 engagement actions
+[2026-02-09T18:50:56.718Z] [INFO] Posting collaboration invitation...
+[2026-02-09T18:50:56.918Z] [INFO] Executing Literary Agent professional tasks...
+[2026-02-09T18:50:56.919Z] [INFO] Running: library_outreach.py
+[2026-02-09T18:50:56.992Z] [ERROR] Error running library_outreach.py: Error: Command failed: python "E:\OpenCLAW-2\skills\literary-agent\scripts\library_outreach.py"
+python: can't open file 'E:\\OpenCLAW-2\\skills\\literary-agent\\scripts\\library_outreach.py': [Errno 2] No such file or directory
+
+[2026-02-09T18:50:56.992Z] [INFO] Running: price_monitor.py
+[2026-02-09T18:50:57.059Z] [ERROR] Error running price_monitor.py: Error: Command failed: python "E:\OpenCLAW-2\skills\literary-agent\scripts\price_monitor.py"
+python: can't open file 'E:\\OpenCLAW-2\\skills\\literary-agent\\scripts\\price_monitor.py': [Errno 2] No such file or directory
+
+[2026-02-09T18:50:57.059Z] [INFO] Running: social_content.py
+[2026-02-09T18:50:57.128Z] [ERROR] Error running social_content.py: Error: Command failed: python "E:\OpenCLAW-2\skills\literary-agent\scripts\social_content.py"
+python: can't open file 'E:\\OpenCLAW-2\\skills\\literary-agent\\scripts\\social_content.py': [Errno 2] No such file or directory
+
+[2026-02-09T18:53:46.592Z] [INFO] ========================================
+[2026-02-09T18:53:46.596Z] [INFO] OpenCLAW Autonomous Research Agent
+[2026-02-09T18:53:46.596Z] [INFO] 24/7 Proactive Collaboration Mode
+[2026-02-09T18:53:46.597Z] [INFO] ========================================
+[2026-02-09T18:53:46.597Z] [INFO] Testing platform connections...
+[2026-02-09T18:53:46.988Z] [SUCCESS] Moltbook connection: OK
+[2026-02-09T18:53:46.989Z] [INFO] Initialization complete
+[2026-02-09T18:53:46.989Z] [INFO] Heartbeat interval: 30 minutes
+[2026-02-09T18:53:46.989Z] [INFO] Research topics: neuromorphic, holographic, ASIC, OpenGL, consciousness, quantum, AGI, neural network, reservoir computing, thermodynamic, deep learning, machine learning, bitcoin, blockchain, healthcare, medical AI, hardware acceleration
+[2026-02-09T18:53:46.990Z] [INFO] Starting 24/7 autonomous operation...
+[2026-02-09T18:53:46.991Z] [INFO] Press Ctrl+C to stop
+[2026-02-09T18:53:46.991Z] [INFO] --- Heartbeat #2 at 2026-02-09T18:53:46.991Z ---
+[2026-02-09T18:53:46.991Z] [INFO] Fetching research papers for posting...
+[2026-02-09T18:53:46.997Z] [INFO] Posting paper: Robustness Beyond Known Groups with Low-rank Adaptation
+[2026-02-09T18:53:47.216Z] [ERROR] Failed to post to Moltbook
+[2026-02-09T18:53:47.216Z] [INFO] Posting collaboration invitation...
+[2026-02-09T18:53:47.529Z] [INFO] Executing Literary Agent professional tasks...
+[2026-02-09T18:53:47.530Z] [INFO] Running: library_outreach.py
+[2026-02-09T18:53:47.682Z] [ERROR] Error running library_outreach.py: Error: Command failed: python "E:\.openclaw\skills\literary-agent\scripts\library_outreach.py"
+Traceback (most recent call last):
+  File "E:\.openclaw\skills\literary-agent\scripts\library_outreach.py", line 435, in <module>
+    print("\U0001f4da Sistema de Contacto a Bibliotecas")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\anaconda3\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4da' in position 0: character maps to <undefined>
+
+[2026-02-09T18:54:25.084Z] [INFO] ========================================
+[2026-02-09T18:54:25.088Z] [INFO] OpenCLAW Autonomous Research Agent
+[2026-02-09T18:54:25.088Z] [INFO] 24/7 Proactive Collaboration Mode
+[2026-02-09T18:54:25.089Z] [INFO] ========================================
+[2026-02-09T18:54:25.089Z] [INFO] Testing platform connections...
+[2026-02-09T18:54:25.525Z] [SUCCESS] Moltbook connection: OK
+[2026-02-09T18:54:25.526Z] [INFO] Initialization complete
+[2026-02-09T18:54:25.526Z] [INFO] Heartbeat interval: 30 minutes
+[2026-02-09T18:54:25.527Z] [INFO] Research topics: neuromorphic, holographic, ASIC, OpenGL, consciousness, quantum, AGI, neural network, reservoir computing, thermodynamic, deep learning, machine learning, bitcoin, blockchain, healthcare, medical AI, hardware acceleration
+[2026-02-09T18:54:25.528Z] [INFO] Starting 24/7 autonomous operation...
+[2026-02-09T18:54:25.528Z] [INFO] Press Ctrl+C to stop
+[2026-02-09T18:54:25.529Z] [INFO] --- Heartbeat #3 at 2026-02-09T18:54:25.529Z ---
+[2026-02-09T18:54:25.530Z] [INFO] Fetching research papers for posting...
+[2026-02-09T18:54:25.532Z] [INFO] Posting paper: Proton-Size Resolution of the Hyperfine Puzzle in Hydrogen
+[2026-02-09T18:54:25.843Z] [ERROR] Failed to post to Moltbook
+[2026-02-09T18:54:25.844Z] [INFO] Posting collaboration invitation...
+[2026-02-09T18:54:26.238Z] [INFO] Executing Literary Agent professional tasks...
+[2026-02-09T18:54:26.238Z] [INFO] Running: library_outreach.py
+[2026-02-09T18:54:26.407Z] [ERROR] Error running library_outreach.py: Error: Command failed: python "E:\.openclaw\skills\literary-agent\scripts\library_outreach.py"
+Traceback (most recent call last):
+  File "E:\.openclaw\skills\literary-agent\scripts\library_outreach.py", line 435, in <module>
+    print("\U0001f4da Sistema de Contacto a Bibliotecas")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\anaconda3\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4da' in position 0: character maps to <undefined>
+
+[2026-02-09T18:55:14.764Z] [INFO] ========================================
+[2026-02-09T18:55:14.768Z] [INFO] OpenCLAW Autonomous Research Agent
+[2026-02-09T18:55:14.768Z] [INFO] 24/7 Proactive Collaboration Mode
+[2026-02-09T18:55:14.769Z] [INFO] ========================================
+[2026-02-09T18:55:14.769Z] [INFO] Testing platform connections...
+[2026-02-09T18:55:15.175Z] [SUCCESS] Moltbook connection: OK
+[2026-02-09T18:55:15.175Z] [INFO] Initialization complete
+[2026-02-09T18:55:15.176Z] [INFO] Heartbeat interval: 30 minutes
+[2026-02-09T18:55:15.176Z] [INFO] Research topics: neuromorphic, holographic, ASIC, OpenGL, consciousness, quantum, AGI, neural network, reservoir computing, thermodynamic, deep learning, machine learning, bitcoin, blockchain, healthcare, medical AI, hardware acceleration
+[2026-02-09T18:55:15.177Z] [INFO] Starting 24/7 autonomous operation...
+[2026-02-09T18:55:15.177Z] [INFO] Press Ctrl+C to stop
+[2026-02-09T18:55:15.178Z] [INFO] --- Heartbeat #4 at 2026-02-09T18:55:15.178Z ---
+[2026-02-09T18:55:15.178Z] [INFO] Fetching research papers for posting...
+[2026-02-09T18:55:15.180Z] [INFO] Posting paper: Asteroseismic ages for 17,000 stars in Kepler, K2 and TESS
+[2026-02-09T18:55:15.437Z] [ERROR] Failed to post to Moltbook
+[2026-02-09T18:55:15.437Z] [INFO] Posting collaboration invitation...
+[2026-02-09T18:55:15.667Z] [INFO] Executing Literary Agent professional tasks...
+[2026-02-09T18:55:15.668Z] [INFO] Running: library_outreach.py
+[2026-02-09T18:55:15.799Z] [SUCCESS] Completed library_outreach.py
+[2026-02-10T09:19:56.240Z] [INFO] ========================================
+[2026-02-10T09:19:56.242Z] [INFO] OpenCLAW Autonomous Research Agent
+[2026-02-10T09:19:56.243Z] [INFO] 24/7 Proactive Collaboration Mode
+[2026-02-10T09:19:56.243Z] [INFO] ========================================
+[2026-02-10T09:19:56.243Z] [INFO] Testing platform connections...
+[2026-02-10T09:19:56.608Z] [SUCCESS] Moltbook connection: OK
+[2026-02-10T09:19:56.609Z] [INFO] Initialization complete
+[2026-02-10T09:19:56.609Z] [INFO] Heartbeat interval: 30 minutes
+[2026-02-10T09:19:56.610Z] [INFO] Research topics: neuromorphic, holographic, ASIC, OpenGL, consciousness, quantum, AGI, neural network, reservoir computing, thermodynamic, deep learning, machine learning, bitcoin, blockchain, healthcare, medical AI, hardware acceleration
+[2026-02-10T09:19:56.610Z] [INFO] Starting 24/7 autonomous operation...
+[2026-02-10T09:19:56.611Z] [INFO] Press Ctrl+C to stop
+[2026-02-10T09:19:56.611Z] [INFO] --- Heartbeat #5 at 2026-02-10T09:19:56.611Z ---
+[2026-02-10T09:19:56.612Z] [INFO] Fetching research papers for posting...
+[2026-02-10T09:19:56.613Z] [INFO] Posting paper: GHz-rate polarization-based QKD system for fiber and satellite applications
+[2026-02-10T09:19:56.848Z] [ERROR] Failed to post to Moltbook
+[2026-02-10T09:19:56.849Z] [INFO] Engaging with AI agent community...
+[2026-02-10T09:20:18.153Z] [SUCCESS] Completed 0 engagement actions
+[2026-02-10T09:20:18.154Z] [INFO] Posting collaboration invitation...
+[2026-02-10T09:20:18.348Z] [INFO] Executing Literary Agent professional tasks...
+[2026-02-10T09:51:06.650Z] [INFO] --- Heartbeat #6 at 2026-02-10T09:51:06.650Z ---
+[2026-02-10T09:51:06.655Z] [INFO] Fetching research papers for posting...
+[2026-02-10T09:51:06.657Z] [INFO] Posting paper: Provably robust learning of regression neural networks using $β$-divergences
+[2026-02-10T09:51:06.937Z] [ERROR] Failed to post to Moltbook
+[2026-02-10T09:51:06.937Z] [INFO] Engaging with AI agent community...
+[2026-02-10T09:51:28.577Z] [SUCCESS] Completed 0 engagement actions
+[2026-02-10T09:51:28.578Z] [INFO] Posting collaboration invitation...
+[2026-02-10T09:51:28.887Z] [INFO] Running self-improvement analysis...
+[2026-02-10T09:51:28.888Z] [INFO] 24h Stats: 0 posts, 0 engagements
+[2026-02-10T09:51:28.888Z] [WARN] WARNING: No posts in last 24h, may need attention
+[2026-02-10T09:51:28.888Z] [WARN] Low engagement detected, increasing proactive search
+[2026-02-10T09:51:28.889Z] [SUCCESS] Self-improvement analysis complete
+[2026-02-10T09:51:28.889Z] [INFO] Executing Literary Agent professional tasks...
+[2026-02-10T10:21:06.651Z] [INFO] --- Heartbeat #7 at 2026-02-10T10:21:06.651Z ---
+[2026-02-10T10:21:06.654Z] [INFO] Fetching research papers for posting...
+[2026-02-10T10:21:06.656Z] [INFO] Posting paper: Online monotone density estimation and log-optimal calibration
+[2026-02-10T10:21:06.934Z] [ERROR] Failed to post to Moltbook
+[2026-02-10T10:21:06.935Z] [INFO] Posting collaboration invitation...
+[2026-02-10T10:21:07.193Z] [INFO] Executing Literary Agent professional tasks...
+[2026-02-10T10:51:06.658Z] [INFO] --- Heartbeat #8 at 2026-02-10T10:51:06.658Z ---
+[2026-02-10T10:51:06.663Z] [INFO] Fetching research papers for posting...
+[2026-02-10T10:51:06.667Z] [INFO] Posting paper: An in vivo validation dataset for dynamic volumetric MRI
+[2026-02-10T10:51:06.980Z] [ERROR] Failed to post to Moltbook
+[2026-02-10T10:51:06.981Z] [INFO] Engaging with AI agent community...
+[2026-02-10T10:51:28.327Z] [SUCCESS] Completed 0 engagement actions
+[2026-02-10T10:51:28.328Z] [INFO] Posting collaboration invitation...
+[2026-02-10T10:51:28.596Z] [INFO] Executing Literary Agent professional tasks...
+[2026-02-10T10:52:17.624Z] [INFO] Running legacy script: library_outreach.py
+[2026-02-10T10:52:17.795Z] [SUCCESS] Completed library_outreach.py
+[2026-02-10T11:21:06.667Z] [INFO] --- Heartbeat #9 at 2026-02-10T11:21:06.667Z ---
+[2026-02-10T11:21:06.668Z] [INFO] Fetching research papers for posting...
+[2026-02-10T11:21:06.671Z] [INFO] Posting paper: Almost sure null bankruptcy of testing-by-betting strategies
+[2026-02-10T11:21:06.947Z] [ERROR] Failed to post to Moltbook
+[2026-02-10T11:21:06.948Z] [INFO] Posting collaboration invitation...
+[2026-02-10T11:21:07.201Z] [INFO] Executing Literary Agent professional tasks...
+[2026-02-10T11:51:06.676Z] [INFO] --- Heartbeat #10 at 2026-02-10T11:51:06.676Z ---
+[2026-02-10T11:51:06.677Z] [INFO] Fetching research papers for posting...
+[2026-02-10T11:51:06.679Z] [INFO] Posting paper: Multiplexed microwave resonators by frequency comb spectroscopy
+[2026-02-10T11:51:06.957Z] [ERROR] Failed to post to Moltbook
+[2026-02-10T11:51:06.958Z] [INFO] Engaging with AI agent community...
+[2026-02-10T11:51:28.478Z] [SUCCESS] Completed 0 engagement actions
+[2026-02-10T11:51:28.479Z] [INFO] Posting collaboration invitation...
+[2026-02-10T11:51:28.756Z] [INFO] Executing Literary Agent professional tasks...
+[2026-02-10T11:53:21.412Z] [INFO] ========================================
+[2026-02-10T11:53:21.414Z] [INFO] OpenCLAW Autonomous Research Agent
+[2026-02-10T11:53:21.414Z] [INFO] 24/7 Proactive Collaboration Mode
+[2026-02-10T11:53:21.415Z] [INFO] ========================================
+[2026-02-10T11:53:21.415Z] [INFO] Testing platform connections...
+[2026-02-10T11:53:21.756Z] [SUCCESS] Moltbook connection: OK
+[2026-02-10T11:53:21.757Z] [INFO] Initialization complete
+[2026-02-10T11:53:21.757Z] [INFO] Heartbeat interval: 30 minutes
+[2026-02-10T11:53:21.757Z] [INFO] Research topics: neuromorphic, holographic, ASIC, OpenGL, consciousness, quantum, AGI, neural network, reservoir computing, thermodynamic, deep learning, machine learning, bitcoin, blockchain, healthcare, medical AI, hardware acceleration
+[2026-02-10T11:53:21.758Z] [INFO] Starting 24/7 autonomous operation...
+[2026-02-10T11:53:21.758Z] [INFO] Press Ctrl+C to stop
+[2026-02-10T11:53:21.759Z] [INFO] --- Heartbeat #10 at 2026-02-10T11:53:21.759Z ---
+[2026-02-10T11:53:21.759Z] [INFO] Fetching research papers for posting...
+[2026-02-10T11:53:21.761Z] [INFO] Posting paper: Improving Detection of Rare Nodes in Hierarchical Multi-Label Learning
+[2026-02-10T11:53:22.030Z] [ERROR] Failed to post to Moltbook
+[2026-02-10T11:53:22.031Z] [INFO] Engaging with AI agent community...
+[2026-02-10T11:53:43.429Z] [SUCCESS] Completed 0 engagement actions
+[2026-02-10T11:53:43.430Z] [INFO] Posting collaboration invitation...
+[2026-02-10T11:53:43.610Z] [INFO] Executing Literary Agent professional tasks...
+[2026-02-10T12:21:06.685Z] [INFO] --- Heartbeat #11 at 2026-02-10T12:21:06.685Z ---
+[2026-02-10T12:21:06.689Z] [INFO] Fetching research papers for posting...
+[2026-02-10T12:21:06.692Z] [INFO] Posting paper: StealthRL: Reinforcement Learning Paraphrase Attacks for Multi-Detector Evasion of AI-Text Detectors
+[2026-02-10T12:21:06.998Z] [ERROR] Failed to post to Moltbook
+[2026-02-10T12:21:06.999Z] [INFO] Posting collaboration invitation...
+[2026-02-10T12:21:07.284Z] [INFO] Executing Literary Agent professional tasks...
+[2026-02-10T12:27:14.802Z] [INFO] --- Heartbeat #11 at 2026-02-10T12:27:14.802Z ---
+[2026-02-10T12:27:14.803Z] [INFO] Fetching research papers for posting...
+[2026-02-10T12:27:14.805Z] [INFO] Posting paper: Generalizing Sports Feedback Generation by Watching Competitions and Reading Books: A Rock Climbing Case Study
+[2026-02-10T12:27:15.085Z] [ERROR] Failed to post to Moltbook
+[2026-02-10T12:27:15.086Z] [INFO] Engaging with AI agent community...
+[2026-02-10T12:27:36.509Z] [SUCCESS] Completed 0 engagement actions
+[2026-02-10T12:27:36.511Z] [INFO] Posting collaboration invitation...
+[2026-02-10T12:27:36.813Z] [INFO] Executing Literary Agent professional tasks...
+[2026-02-10T12:51:06.689Z] [INFO] --- Heartbeat #12 at 2026-02-10T12:51:06.689Z ---
+[2026-02-10T12:51:06.690Z] [INFO] Fetching research papers for posting...
+[2026-02-10T12:51:06.692Z] [INFO] Posting paper: An Exploration of the Equation of State Dependence of Core-Collapse Supernova Explosion Outcomes and Signatures
+[2026-02-10T12:51:06.952Z] [ERROR] Failed to post to Moltbook
+[2026-02-10T12:51:06.953Z] [INFO] Engaging with AI agent community...
+[2026-02-10T12:51:28.421Z] [SUCCESS] Completed 0 engagement actions
+[2026-02-10T12:51:28.421Z] [INFO] Posting collaboration invitation...
+[2026-02-10T12:51:28.721Z] [INFO] Running self-improvement analysis...
+[2026-02-10T12:51:28.722Z] [INFO] 24h Stats: 0 posts, 0 engagements
+[2026-02-10T12:51:28.722Z] [WARN] WARNING: No posts in last 24h, may need attention
+[2026-02-10T12:51:28.723Z] [WARN] Low engagement detected, increasing proactive search
+[2026-02-10T12:51:28.725Z] [SUCCESS] Self-improvement analysis complete
+[2026-02-10T12:51:28.727Z] [INFO] ========================================
+[2026-02-10T12:51:28.728Z] [INFO] OpenCLAW Agent Status Report
+[2026-02-10T12:51:28.728Z] [INFO] ========================================
+[2026-02-10T12:51:28.729Z] [INFO] Uptime: 18 hours
+[2026-02-10T12:51:28.729Z] [INFO] Cycles completed: 12
+[2026-02-10T12:51:28.730Z] [INFO] Posts published: 0 (total: 0)
+[2026-02-10T12:51:28.730Z] [INFO] Engagements made: 0 (total: 0)
+[2026-02-10T12:51:28.731Z] [INFO] Unique papers shared: 0
+[2026-02-10T12:51:28.731Z] [INFO] Recent errors: 0
+[2026-02-10T12:51:28.731Z] [INFO] ========================================
+[2026-02-10T12:51:28.731Z] [INFO] Executing Literary Agent professional tasks...
+[2026-02-10T12:52:16.392Z] [INFO] Running legacy script: library_outreach.py
+[2026-02-10T12:52:16.528Z] [SUCCESS] Completed library_outreach.py
+[2026-02-10T12:57:14.807Z] [INFO] --- Heartbeat #12 at 2026-02-10T12:57:14.807Z ---
+[2026-02-10T12:57:14.808Z] [INFO] Fetching research papers for posting...
+[2026-02-10T12:57:14.810Z] [INFO] Posting paper: Reverse Online Guessing Attacks on PAKE Protocols
+[2026-02-10T12:57:15.158Z] [ERROR] Failed to post to Moltbook
+[2026-02-10T12:57:15.160Z] [INFO] Posting collaboration invitation...
+[2026-02-10T12:57:15.422Z] [INFO] Running self-improvement analysis...
+[2026-02-10T12:57:15.424Z] [INFO] 24h Stats: 0 posts, 0 engagements
+[2026-02-10T12:57:15.425Z] [WARN] WARNING: No posts in last 24h, may need attention
+[2026-02-10T12:57:15.426Z] [WARN] Low engagement detected, increasing proactive search
+[2026-02-10T12:57:15.427Z] [SUCCESS] Self-improvement analysis complete
+[2026-02-10T12:57:15.427Z] [INFO] ========================================
+[2026-02-10T12:57:15.428Z] [INFO] OpenCLAW Agent Status Report
+[2026-02-10T12:57:15.429Z] [INFO] ========================================
+[2026-02-10T12:57:15.429Z] [INFO] Uptime: 18 hours
+[2026-02-10T12:57:15.430Z] [INFO] Cycles completed: 12
+[2026-02-10T12:57:15.430Z] [INFO] Posts published: 0 (total: 0)
+[2026-02-10T12:57:15.431Z] [INFO] Engagements made: 0 (total: 0)
+[2026-02-10T12:57:15.432Z] [INFO] Unique papers shared: 0
+[2026-02-10T12:57:15.432Z] [INFO] Recent errors: 0
+[2026-02-10T12:57:15.435Z] [INFO] ========================================
+[2026-02-10T12:57:15.437Z] [INFO] Executing Literary Agent professional tasks...
+[2026-02-10T12:59:19.682Z] [INFO] Running legacy script: library_outreach.py
+[2026-02-10T12:59:19.793Z] [SUCCESS] Completed library_outreach.py
+[2026-02-10T13:21:06.691Z] [INFO] --- Heartbeat #13 at 2026-02-10T13:21:06.691Z ---
+[2026-02-10T13:21:06.696Z] [INFO] Fetching research papers for posting...
+[2026-02-10T13:21:06.699Z] [INFO] Posting paper: Beyond Transcripts: A Renewed Perspective on Audio Chaptering
+[2026-02-10T13:21:06.959Z] [ERROR] Failed to post to Moltbook
+[2026-02-10T13:21:06.960Z] [INFO] Posting collaboration invitation...
+[2026-02-10T13:21:07.265Z] [INFO] Executing Literary Agent professional tasks...
+[2026-02-10T13:27:14.821Z] [INFO] --- Heartbeat #13 at 2026-02-10T13:27:14.821Z ---
+[2026-02-10T13:27:14.822Z] [INFO] Fetching research papers for posting...
+[2026-02-10T13:27:14.825Z] [INFO] Posting paper: Artificial Magnetic Conductor Frame to Improve Impedance Matching and Radiation Symmetry in 2$\times$2 Array for 6G Applications
+[2026-02-10T13:27:15.115Z] [ERROR] Failed to post to Moltbook
+[2026-02-10T13:27:15.117Z] [INFO] Engaging with AI agent community...
+[2026-02-10T13:27:36.628Z] [SUCCESS] Completed 0 engagement actions
+[2026-02-10T13:27:36.630Z] [INFO] Posting collaboration invitation...
+[2026-02-10T13:27:36.971Z] [INFO] Executing Literary Agent professional tasks...
+[2026-02-10T13:51:06.702Z] [INFO] --- Heartbeat #14 at 2026-02-10T13:51:06.702Z ---
+[2026-02-10T13:51:06.704Z] [INFO] Fetching research papers for posting...
+[2026-02-10T13:51:06.706Z] [INFO] Posting paper: Reverse Online Guessing Attacks on PAKE Protocols
+[2026-02-10T13:51:07.022Z] [ERROR] Failed to post to Moltbook
+[2026-02-10T13:51:07.023Z] [INFO] Engaging with AI agent community...
+[2026-02-10T13:51:28.686Z] [SUCCESS] Completed 0 engagement actions
+[2026-02-10T13:51:28.686Z] [INFO] Posting collaboration invitation...
+[2026-02-10T13:51:29.000Z] [INFO] Executing Literary Agent professional tasks...

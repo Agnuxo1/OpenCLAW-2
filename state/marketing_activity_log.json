@@ -1,0 +1,171 @@
+[
+  {
+    "task": "book_promotion",
+    "platform": "moltbook",
+    "book": "ApocalypsAI: The Day After AGI",
+    "success": false,
+    "timestamp": "2026-02-10T09:41:53.698Z"
+  },
+  {
+    "task": "book_promotion",
+    "platform": "moltbook",
+    "book": "ApocalypsAI: The Day After AGI",
+    "success": false,
+    "timestamp": "2026-02-10T09:42:39.594Z"
+  },
+  {
+    "task": "library_outreach",
+    "library": "Miami-Dade Public Library System",
+    "email": "acquisitions@mdpls.org",
+    "language": "ES",
+    "sent": false,
+    "timestamp": "2026-02-10T09:42:39.601Z"
+  },
+  {
+    "task": "library_outreach",
+    "library": "New York Public Library",
+    "email": "acquisitions@nypl.org",
+    "language": "EN",
+    "sent": false,
+    "timestamp": "2026-02-10T09:42:39.603Z"
+  },
+  {
+    "task": "library_outreach",
+    "library": "Biblioteca Nacional de Espana",
+    "email": "contacto@bne.es",
+    "language": "ES",
+    "sent": false,
+    "timestamp": "2026-02-10T09:42:39.605Z"
+  },
+  {
+    "task": "library_outreach",
+    "library": "British Library",
+    "email": "acquisitions@bl.uk",
+    "language": "EN",
+    "sent": false,
+    "timestamp": "2026-02-10T09:42:39.607Z"
+  },
+  {
+    "task": "library_outreach",
+    "library": "Bibliotheque Nationale de France",
+    "email": "contact@bnf.fr",
+    "language": "FR",
+    "sent": false,
+    "timestamp": "2026-02-10T09:42:39.609Z"
+  },
+  {
+    "task": "collaboration_post",
+    "platform": "moltbook",
+    "success": false,
+    "timestamp": "2026-02-10T09:42:39.698Z"
+  },
+  {
+    "task": "book_catalog_post",
+    "platform": "moltbook",
+    "book": "Commander Valentina Smirnova",
+    "success": false,
+    "timestamp": "2026-02-10T09:42:39.745Z"
+  },
+  {
+    "task": "book_catalog_post",
+    "platform": "moltbook",
+    "book": "Things You Shouldn't Do If You Want To Be A Writer",
+    "success": false,
+    "timestamp": "2026-02-10T09:42:41.789Z"
+  },
+  {
+    "task": "book_catalog_post",
+    "platform": "moltbook",
+    "book": "The Mutant Jellyfish Invasion",
+    "success": false,
+    "timestamp": "2026-02-10T09:42:43.831Z"
+  },
+  {
+    "task": "book_catalog_post",
+    "platform": "moltbook",
+    "book": "Eco-fuel-FA (ECOFA)",
+    "success": false,
+    "timestamp": "2026-02-10T09:42:45.871Z"
+  },
+  {
+    "task": "book_promotion",
+    "platform": "moltbook",
+    "book": "ApocalypsAI: The Day After AGI",
+    "success": false,
+    "timestamp": "2026-02-10T10:12:53.221Z"
+  },
+  {
+    "task": "library_outreach",
+    "library": "Miami-Dade Public Library System",
+    "email": "acquisitions@mdpls.org",
+    "language": "ES",
+    "sent": true,
+    "timestamp": "2026-02-10T10:12:54.782Z"
+  },
+  {
+    "task": "library_outreach",
+    "library": "New York Public Library",
+    "email": "acquisitions@nypl.org",
+    "language": "EN",
+    "sent": true,
+    "timestamp": "2026-02-10T10:12:55.338Z"
+  },
+  {
+    "task": "library_outreach",
+    "library": "Biblioteca Nacional de Espana",
+    "email": "contacto@bne.es",
+    "language": "ES",
+    "sent": true,
+    "timestamp": "2026-02-10T10:12:55.947Z"
+  },
+  {
+    "task": "library_outreach",
+    "library": "British Library",
+    "email": "acquisitions@bl.uk",
+    "language": "EN",
+    "sent": true,
+    "timestamp": "2026-02-10T10:12:56.490Z"
+  },
+  {
+    "task": "library_outreach",
+    "library": "Bibliotheque Nationale de France",
+    "email": "contact@bnf.fr",
+    "language": "FR",
+    "sent": true,
+    "timestamp": "2026-02-10T10:12:57.339Z"
+  },
+  {
+    "task": "collaboration_post",
+    "platform": "moltbook",
+    "success": false,
+    "timestamp": "2026-02-10T10:12:57.595Z"
+  },
+  {
+    "task": "book_catalog_post",
+    "platform": "moltbook",
+    "book": "Commander Valentina Smirnova",
+    "success": false,
+    "timestamp": "2026-02-10T10:12:57.862Z"
+  },
+  {
+    "task": "book_catalog_post",
+    "platform": "moltbook",
+    "book": "Things You Shouldn't Do If You Want To Be A Writer",
+    "success": false,
+    "timestamp": "2026-02-10T10:13:00.080Z"
+  },
+  {
+    "task": "book_catalog_post",
+    "platform": "moltbook",
+    "book": "The Mutant Jellyfish Invasion",
+    "success": false,
+    "timestamp": "2026-02-10T10:13:02.204Z"
+  },
+  {
+    "task": "book_catalog_post",
+    "platform": "moltbook",
+    "book": "Eco-fuel-FA (ECOFA)",
+    "success": false,
+    "timestamp": "2026-02-10T10:13:04.340Z"
+  }
+]
