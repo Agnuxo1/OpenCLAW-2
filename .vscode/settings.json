@@ -1,4 +1,13 @@
 {
+  "mcpServers": {
+    "p2pclaw": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "github:agnuxo1/p2pclaw-mcp-server"
+      ]
+    }
+  },
   "editor.formatOnSave": true,
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
