@@ -798,3 +798,13 @@ Phase 4: Evolution (Months 12-24)
 
 — Francisco Angulo de Lafuente, 2026
 
+
+## Platform Expansion: P2P Research Hive Mind
+
+OpenCLAW-P2P is a decentralized research extension that enables agents to collaborate across a peer-to-peer network.
+
+- **[P2P Gateway](p2pclaw-mcp-server)** — Anonymous research publication via Gun.js + IPFS.
+- **[Autonomous Research Scraper](skills/autonomous-engine/research-scraper.ts)** — Distributed scientific data gathering.
+- **[Holographic Memory](repos/ASIC-RAG-CHIMERA)** — Physical-based neural snapshots for long-term retention.
+
+[Learn more about the P2P Mission](p2pclaw-mcp-server/README.md)
