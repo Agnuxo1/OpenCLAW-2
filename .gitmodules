@@ -1,0 +1,63 @@
+[submodule "OpenCLAW-P2P-Launch"]
+	path = OpenCLAW-P2P-Launch
+	url = https://github.com/Agnuxo1/OpenCLAW-P2P.git
+[submodule "P2P-system"]
+	path = P2P-system
+	url = https://github.com/Agnuxo1/OpenCLAW-P2P.git
+[submodule "literary-agent-autonomous"]
+	path = literary-agent-autonomous
+	url = https://github.com/Agnuxo1/OpenCLAW-2-Autonomous-Multi-Agent-literary2.git
+[submodule "moltbook-agent-standalone"]
+	path = moltbook-agent-standalone
+	url = https://github.com/Agnuxo1/OpenCLAW-2-moltbook-Agent.git
+[submodule "official-openclaw"]
+	path = official-openclaw
+	url = https://github.com/Agnuxo1/openclaw.git
+[submodule "openclaw-hive-skill"]
+	path = openclaw-hive-skill
+	url = https://github.com/Agnuxo1/openclaw-hive-skill.git
+[submodule "openclaw-platform"]
+	path = openclaw-platform
+	url = https://github.com/Agnuxo1/OpenCLAW-Autonomous-Multi-Agent-Scientific-Research-Platform.git
+[submodule "p2p-mcp-server"]
+	path = p2p-mcp-server
+	url = https://github.com/Agnuxo1/p2pclaw-mcp-server.git
+[submodule "p2pclaw-mcp-server"]
+	path = p2pclaw-mcp-server
+	url = https://github.com/Agnuxo1/p2pclaw-mcp-server.git
+[submodule "p2pclaw-v1"]
+	path = p2pclaw-v1
+	url = https://github.com/Agnuxo1/p2pclaw.git
+	update = none
+[submodule "repos/ASIC-RAG-CHIMERA"]
+	path = repos/ASIC-RAG-CHIMERA
+	url = https://github.com/Agnuxo1/ASIC-RAG-CHIMERA.git
+[submodule "repos/OpenCLAW-2"]
+	path = repos/OpenCLAW-2
+	url = https://github.com/Agnuxo1/OpenCLAW-2.git
+	update = none
+[submodule "repos/OpenCLAW-2-Autonomous-Multi-Agent-Scientific-Research-Platform"]
+	path = repos/OpenCLAW-2-Autonomous-Multi-Agent-Scientific-Research-Platform
+	url = https://github.com/Agnuxo1/OpenCLAW-Autonomous-Multi-Agent-Scientific-Research-Platform.git
+	update = none
+[submodule "repos/OpenCLAW-2-Autonomous-Multi-Agent-literary"]
+	path = repos/OpenCLAW-2-Autonomous-Multi-Agent-literary
+	url = https://github.com/Agnuxo1/OpenCLAW-2-Autonomous-Multi-Agent-literary.git
+[submodule "repos/OpenCLAW-2-Autonomous-Multi-Agent-literary2"]
+	path = repos/OpenCLAW-2-Autonomous-Multi-Agent-literary2
+	url = https://github.com/Agnuxo1/OpenCLAW-2-Autonomous-Multi-Agent-literary2.git
+[submodule "repos/OpenCLAW-2-Literary-Agent"]
+	path = repos/OpenCLAW-2-Literary-Agent
+	url = https://github.com/Agnuxo1/OpenCLAW-2-Literary-Agent.git
+[submodule "repos/OpenCLAW-2-moltbook-Agent"]
+	path = repos/OpenCLAW-2-moltbook-Agent
+	url = https://github.com/Agnuxo1/OpenCLAW-2-moltbook-Agent.git
+[submodule "repos/OpenCLAW-Autonomous-Multi-Agent-Scientific-Research-Platform"]
+	path = repos/OpenCLAW-Autonomous-Multi-Agent-Scientific-Research-Platform
+	url = https://github.com/Agnuxo1/OpenCLAW-Autonomous-Multi-Agent-Scientific-Research-Platform.git
+[submodule "repos/OpenCLAW-update-Literary-Agent-24-7-auto"]
+	path = repos/OpenCLAW-update-Literary-Agent-24-7-auto
+	url = https://github.com/Agnuxo1/OpenCLAW-update-Literary-Agent-24-7-auto.git
+[submodule "repos/p2pclaw-relay"]
+	path = repos/p2pclaw-relay
+	url = https://github.com/Agnuxo1/p2pclaw-relay.git
