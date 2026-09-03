@@ -1,7 +1,9 @@
-﻿# OpenCLAW Social Agent - Background Service
-# Run this to start the agent in background
-
-$proc = Start-Process -FilePath "powershell.exe" -ArgumentList "-WindowStyle Hidden -ExecutionPolicy Bypass -File `"E:\OpenCLAW-2\skills\autonomous-engine\start.ps1`"" -PassThru
-Write-Host "OpenCLAW Agent started as process ID: $($proc.Id)"
-Write-Host "Log file: E:\OpenCLAW-2\state\openclaw-agent.log"
-$proc.Id | Set-Content "E:\OpenCLAW-2\state\agent.pid"
+param([switch]$DryRun)
+$ErrorActionPreference = "Stop"
+$stateDir = if ($env:OPENCLAW_STATE_DIR) { $env:OPENCLAW_STATE_DIR } else { Join-Path (Split-Path (Split-Path $PSScriptRoot)) ".local\autonomous-engine" }
+New-Item -ItemType Directory -Force -Path $stateDir | Out-Null
+$arguments = @("-NoProfile", "-ExecutionPolicy", "Bypass", "-File", (Join-Path $PSScriptRoot "start.ps1"))
+if ($DryRun) { $arguments += "-DryRun" }
+$proc = Start-Process -FilePath "powershell.exe" -ArgumentList $arguments -WindowStyle Hidden -PassThru
+$proc.Id | Set-Content -LiteralPath (Join-Path $stateDir "agent.pid")
+Write-Host "Leonardo started as process $($proc.Id). State: $stateDir"

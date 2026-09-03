@@ -5,17 +5,15 @@
   "main": "openclaw-agent.ts",
   "scripts": {
     "start": "ts-node openclaw-agent.ts run",
-    "setup": "ts-node openclaw-agent.ts setup",
-    "once": "ts-node openclaw-agent.ts once",
+    "once": "ts-node openclaw-agent.ts once --dry-run",
     "stats": "ts-node openclaw-agent.ts stats",
     "status": "ts-node openclaw-agent.ts status",
-    "test": "ts-node openclaw-agent.ts once",
-    "build": "tsc"
+    "approvals": "ts-node approvals-cli.ts",
+    "test": "node --test -r ts-node/register tests/autonomous-engine.test.ts",
+    "build": "tsc --noEmit"
   },
-  "dependencies": {
+  "devDependencies": {
     "@types/node": "^20.0.0",
-    "@types/nodemailer": "^7.0.9",
-    "nodemailer": "^8.0.1",
     "ts-node": "^10.9.0",
     "typescript": "^5.3.0"
   },

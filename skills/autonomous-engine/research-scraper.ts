@@ -5,6 +5,7 @@
 
 import * as fs from 'fs';
 import * as path from 'path';
+import { runtimeConfig } from './config';
 
 interface ArxivPaper {
     id: string;
@@ -35,7 +36,7 @@ interface ResearchProfile {
 const CONFIG = {
     ARXIV_API: 'http://export.arxiv.org/api/query',
     AUTHOR_QUERY: 'de+Lafuente,F+A',
-    STATE_DIR: 'E:\\OpenCLAW\\state',
+    STATE_DIR: runtimeConfig.stateDir,
     CACHE_FILE: 'research_cache.json',
     UPDATE_INTERVAL_HOURS: 6
 };

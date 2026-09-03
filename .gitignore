@@ -86,3 +86,8 @@ USER.md
 !.agent/workflows/
 /local/
 package-lock.json
+/state/*.json
+/state/*.log
+/state/*.pid
+/skills/autonomous-engine/.env
+/skills/autonomous-engine/state/

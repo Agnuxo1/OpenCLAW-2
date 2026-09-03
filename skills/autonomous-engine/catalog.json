@@ -1,0 +1,28 @@
+{
+  "author": {
+    "name": "Francisco Angulo de Lafuente",
+    "catalogSources": [
+      "https://books.apple.com/us/author/francisco-angulo-de-lafuente/id1329061763"
+    ]
+  },
+  "books": [
+    {
+      "title": "The Relic",
+      "genre": "Sci-Fi & Fantasy",
+      "languages": ["EN"],
+      "sources": ["https://books.apple.com/us/book/the-relic/id1329061762"]
+    },
+    {
+      "title": "The forgotten tomb",
+      "genre": "Fiction & Literature",
+      "languages": ["EN"],
+      "sources": ["https://books.apple.com/us/book/the-forgotten-tomb/id6748412410"]
+    },
+    {
+      "title": "The Obituarist",
+      "genre": "Sci-Fi & Fantasy",
+      "languages": ["EN"],
+      "sources": ["https://books.apple.com/us/book/the-obituarist/id6747577769"]
+    }
+  ]
+}
