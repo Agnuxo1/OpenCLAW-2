@@ -1,4 +1,4 @@
--- Full Mission Control audit: stop generic queue growth, preserve history and
+-- Full Comando de Crescimento ESF audit: stop generic queue growth, preserve history and
 -- make Claude agent synchronization observable and reviewable.
 
 create table if not exists public.agent_mission_task_audit_snapshots (

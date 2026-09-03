@@ -1,4 +1,4 @@
--- Specialize the retained queue so Mission Control no longer displays generic
+-- Specialize the retained queue so Comando de Crescimento ESF no longer displays generic
 -- task titles, and index the predicates used by the guarded generators.
 
 create index if not exists agent_mission_tasks_open_daily_owner_idx

@@ -1,4 +1,4 @@
--- Bridge existing Claude agent memories into Mission Control with explicit read ACLs.
+-- Bridge existing Claude agent memories into Comando de Crescimento ESF with explicit read ACLs.
 -- The existing github_agent inheritance is the source of truth for who may read whom.
 
 insert into public.agent_knowledge_sources (

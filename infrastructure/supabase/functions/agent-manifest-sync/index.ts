@@ -66,7 +66,7 @@ Deno.serve(async (request) => {
       .maybeSingle();
 
     // Memory is synchronized for active and protected agents alike. Access is
-    // still constrained by agent_knowledge_sources in Mission Control.
+    // still constrained by agent_knowledge_sources in Comando de Crescimento ESF.
     if (manifest.memory_content) {
       const memorySource = `agent-memory/${manifest.slug}/MEMORY.md`;
       if (registry) {
