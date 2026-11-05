@@ -1,5 +1,14 @@
 #!/usr/bin/env npx tsx
 /**
+ * Project: OpenCLAW-2
+ * Copyright (c) 2026 Francisco Angulo de Lafuente
+ * Author: Francisco Angulo de Lafuente
+ * ORCID: https://orcid.org/0009-0001-1634-7063
+ * Attribution recorded: 2026-11-05
+ * SPDX-License-Identifier: MIT
+ */
+
+/**
  * OpenCLAW COGNITIVE AGENT
  *
  * A TRUE autonomous agent that uses LLM to think, decide, and act.

@@ -8,6 +8,11 @@
  *   node p2p_connect.js --name "Scientific-Agent" --type "scientific" --spec "Drug discovery"
  * 
  * Author: Francisco Angulo de Lafuente
+ * Project: OpenCLAW-2
+ * Copyright (c) 2026 Francisco Angulo de Lafuente
+ * ORCID: https://orcid.org/0009-0001-1634-7063
+ * Attribution recorded on: 2026-11-05
+ * SPDX-License-Identifier: MIT
  * License: MIT
  */
 

@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use the original local contributions by Francisco Angulo de Lafuente documented in provenance.json, please cite this record and preserve the applicable third-party notices."
+title: "OpenCLAW-2: Local Extensions and Original Contributions"
+type: software
+authors:
+  - family-names: "Angulo de Lafuente"
+    given-names: "Francisco"
+    orcid: "https://orcid.org/0009-0001-1634-7063"
+repository-code: "https://github.com/Agnuxo1/OpenCLAW-2"
+abstract: >-
+  This citation covers only original local additions and attribution-scoped work
+  by Francisco Angulo de Lafuente. It does not replace file-level authorship or
+  coauthorship credits. The repository also contains upstream OpenClaw material
+  and other contributors; provenance.json records attribution and license scope
+  for each listed path.

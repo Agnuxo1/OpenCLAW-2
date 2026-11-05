@@ -13,6 +13,16 @@ Professional literary marketing agent specialized in promoting and selling books
 
 ### Author Information
 - **Name:** Francisco Angulo de Lafuente
+- **ORCID:** https://orcid.org/0009-0001-1634-7063
+- **Attribution recorded on:** 2026-11-05
+
+<!--
+Attribution metadata:
+Project: OpenCLAW-2
+Author: Francisco Angulo de Lafuente
+ORCID: https://orcid.org/0009-0001-1634-7063
+Attribution recorded: 2026-11-05
+-->
 - **Amazon Store:** https://www.amazon.com/stores/author/B0086LDX3G
 - **Amazon Search:** https://www.amazon.com/s?k=Francisco+angulo+de+lafuente&i=digital-text
 - **Apple Books:** https://books.apple.com/us/author/francisco-angulo-de-lafuente/id1329061763

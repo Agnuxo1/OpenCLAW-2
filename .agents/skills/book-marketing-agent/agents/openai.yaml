@@ -1,3 +1,9 @@
+# Project: OpenCLAW-2
+# Copyright (c) 2026 Francisco Angulo de Lafuente
+# Author: Francisco Angulo de Lafuente
+# ORCID: https://orcid.org/0009-0001-1634-7063
+# Attribution recorded: 2026-11-05
+
 interface:
   display_name: "Book Marketing Agent"
   short_description: "Professional literary marketing for Francisco Angulo de Lafuente's books - 24/7 book promotion, distribution, SEO, library outreach, and sales campaigns"

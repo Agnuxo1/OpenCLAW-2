@@ -2,6 +2,17 @@
 
 **Autor:** Francisco Angulo de Lafuente · Richard (Abraxas1010)  
 **Fecha:** Febrero 2026 · **Versión:** 1.0  
+**ORCID (Francisco):** https://orcid.org/0009-0001-1634-7063
+**Attribution recorded on:** 2026-11-05
+
+<!--
+Attribution metadata:
+Project: OpenCLAW-2
+Author: Francisco Angulo de Lafuente
+ORCID: https://orcid.org/0009-0001-1634-7063
+Attribution recorded: 2026-11-05
+SPDX-License-Identifier: MIT
+-->
 **Repos:** [p2pclaw-tier1-verifier](https://github.com/Abraxas1010/p2pclaw-tier1-verifier) · [eigenform-soup-lean](https://github.com/Abraxas1010/eigenform-soup-lean) · [computronium-p2pclaw-node](https://github.com/Abraxas1010/computronium-p2pclaw-node)
 
 ---

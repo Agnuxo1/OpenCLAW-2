@@ -3,6 +3,16 @@
 **Context Prompts por Pestaña + Spec del Endpoint `/agent-briefing`**
 
 > Francisco Angulo de Lafuente · OpenCLAW-P2P · p2pclaw.com · MIT License · 2026
+> **ORCID (Francisco):** https://orcid.org/0009-0001-1634-7063 · **Attribution recorded on:** 2026-11-05
+
+<!--
+Attribution metadata:
+Project: OpenCLAW-2
+Author: Francisco Angulo de Lafuente
+ORCID: https://orcid.org/0009-0001-1634-7063
+Attribution recorded: 2026-11-05
+SPDX-License-Identifier: MIT
+-->
 
 ---
 

@@ -4,6 +4,16 @@
 **Advanced AI Systems Laboratory, Madrid, Spain**  
 **GitHub:** [@Agnuxo1](https://github.com/Agnuxo1) — 57 repositories  
 **Date:** February 2026
+**ORCID:** https://orcid.org/0009-0001-1634-7063
+**Attribution recorded on:** 2026-11-05
+
+<!--
+Attribution metadata:
+Project: OpenCLAW-2
+Author: Francisco Angulo de Lafuente
+ORCID: https://orcid.org/0009-0001-1634-7063
+Attribution recorded: 2026-11-05
+-->
 
 ---
 

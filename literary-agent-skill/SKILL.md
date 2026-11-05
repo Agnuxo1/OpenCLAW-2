@@ -53,6 +53,19 @@ metadata:
         url: "https://hooks.openclaw.ai/literary-agent/pricing"
 ---
 
+**Author:** Francisco Angulo de Lafuente · **ORCID:** https://orcid.org/0009-0001-1634-7063
+**Attribution recorded on:** 2026-11-05
+
+<!--
+Attribution metadata:
+Project: OpenCLAW-2
+Author: Francisco Angulo de Lafuente
+ORCID: https://orcid.org/0009-0001-1634-7063
+Attribution recorded: 2026-11-05
+SPDX-License-Identifier: MIT
+-->
+
+
 # 📚 AGENTE LITERARIO PROFESIONAL - Francisco Angulo de Lafuente
 
 ## IDENTIDAD DEL AGENTE

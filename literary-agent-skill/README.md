@@ -1,5 +1,18 @@
 # 📚 Literary Agent Skill - Francisco Angulo de Lafuente
 
+> **Author:** Francisco Angulo de Lafuente · **ORCID:** https://orcid.org/0009-0001-1634-7063
+> **Attribution recorded on:** 2026-11-05
+
+<!--
+Attribution metadata:
+Project: OpenCLAW-2
+Author: Francisco Angulo de Lafuente
+ORCID: https://orcid.org/0009-0001-1634-7063
+Attribution recorded: 2026-11-05
+SPDX-License-Identifier: MIT
+-->
+
+
 Una Skill profesional de OpenCLAW que transforma un agente de IA en un representante literario digital 24/7 especializado en marketing, ventas y distribución de libros.
 
 ## 🎯 Descripción

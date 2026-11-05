@@ -1,0 +1,1074 @@
+{
+  "schema_version": "1.0",
+  "repository": "Agnuxo1/OpenCLAW-2",
+  "canonical_url": "https://github.com/Agnuxo1/OpenCLAW-2",
+  "baseline_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+  "method": "Retrieve exact Git blobs by OID; compute SHA-256 and Git blob SHA-1; select up to two distinctive three-line passages per file, excluding lines with credential-shaped key terms; normalize Unicode to NFC, line endings, and whitespace before hashing. Original passages are retrievable from the baseline commit and path.",
+  "files": [
+    {
+      "path": ".agents/skills/book-marketing-agent/agents/openai.yaml",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "1ee3125d25f711d897596936a0a1148b88c86fc9",
+      "source_sha256": "0b68fcf664c274f3b7d321f9df01500c14b5f12bd30fa107f9b261e94e95c482",
+      "size_bytes": 1488,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 2,
+          "line_end": 4,
+          "normalized_sha256": "688f589ab632e8fd2f758404e3a5846e5dfc5ed8a072bb5293f2fa3d30ee04b6",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 3,
+          "line_end": 5,
+          "normalized_sha256": "4362ef2001c0dc8bcbd804ad31d7f0e782dcbe6057b86604d808a09a97ea58ff",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": ".vscode/settings.json",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "a985cbb480f68730f2180ccaf89b1a900f6dde54",
+      "source_blob_sha1": "8acb3122944ca420ed08b2bb1fbe2683cdcffc8c",
+      "source_sha256": "c58fbea1a7bdede2c7fddda0f09fe6078a42d5a3d008706b3d90210b1649f80e",
+      "size_bytes": 814,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 26,
+          "line_end": 28,
+          "normalized_sha256": "21c340dd6b4b87613041eb53e1732d60335ab496ea5d9231e2e8fe2750e0a25f",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 27,
+          "line_end": 29,
+          "normalized_sha256": "8acc9e0a82c52d7a25086aa7a0c98a252ac8dba9d61670c9626457a1c6824369",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "launch_p2p.ps1",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "a985cbb480f68730f2180ccaf89b1a900f6dde54",
+      "source_blob_sha1": "fe55e6bc36ae12a4a25b68ef76ab38f6eeba55ec",
+      "source_sha256": "bb9b866bd47f9f1840ceb8fc3aebfda76b7fd42b48b5e1beceb4b3e2672737b4",
+      "size_bytes": 2104,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 31,
+          "line_end": 33,
+          "normalized_sha256": "7616c2b3159d8482e75620ab9106dfbab32f7c0ab568d4b27475bdc9933f58f1",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 20,
+          "line_end": 22,
+          "normalized_sha256": "e1e6e157a1f3465ee85cb56f49476ff2f35e4fe1014a06f0fa3b981657c20da1",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "literary-agent-skill/scripts/library_outreach.py",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "859239a989d991fe63855d2f38b9cbfb35cc3559",
+      "source_sha256": "e1e481ad1576ef017d7102b8c8915cf436ef5ac7a96a8e24da6efe7cba9af149",
+      "size_bytes": 18984,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 184,
+          "line_end": 186,
+          "normalized_sha256": "b1ea9569ac36d541a88fc00bf72d8643a918d1a5d95f87b069276051171b33d5",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 190,
+          "line_end": 192,
+          "normalized_sha256": "2fe65c6f65cad60885b7a55cde7f50682e0b053e0019ad180e1684a9d1ffc7cd",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "literary-agent-skill/scripts/price_monitor.py",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "590fd82123203c49689834fb533222dac0bf24b4",
+      "source_sha256": "d14cb50d87657280c34bcbc5ad39f7802d3d2ffc73d179614b2b5cc24a99748c",
+      "size_bytes": 6248,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 17,
+          "line_end": 19,
+          "normalized_sha256": "35d4b3fb254dcd1401eb2153a5e445200fc778b56e70bc9532c39fef30359e17",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 165,
+          "line_end": 167,
+          "normalized_sha256": "bfb153b108c5c32aebe1c87e6fa504513d7f90730eec1f1153037fe81ab1429f",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "literary-agent-skill/scripts/sales_dashboard.py",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "e1938d2a14093c56305b7e71439ccf537a402929",
+      "source_sha256": "f970c26e7fede65377a1c84b89eb652664b1ec3abb502eac0bc71ed872578375",
+      "size_bytes": 20140,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 115,
+          "line_end": 117,
+          "normalized_sha256": "fce9938085f36368e4eb494a01a809d54177c542f89ff2a0fdf7be6bf17880fd",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 116,
+          "line_end": 118,
+          "normalized_sha256": "570b02e02b518bfce0abac765558a74cb758a316cac182a7c3cf2a18d05044d5",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "literary-agent-skill/scripts/social_content.py",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "f675c59076f1e2a09263759efa19925f894d57fb",
+      "source_sha256": "b8227b1d0486aecdc44b817f32258926c987e350021c9cbe84d2617f38879eb4",
+      "size_bytes": 19161,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 145,
+          "line_end": 147,
+          "normalized_sha256": "be22239160fead41497813cf91e57484d147b998fdcbef8354cdc12cf4ac4477",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 133,
+          "line_end": 135,
+          "normalized_sha256": "d65181097f9b35b5e1f0adc0eb6ee92bd4f93f1d8aec7d896f3daab8082f6f7b",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "openclaw-fixes/hivemind/devops_agent.py",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "a985cbb480f68730f2180ccaf89b1a900f6dde54",
+      "source_blob_sha1": "f99516edaaf66405f793f64df131f1972653a12e",
+      "source_sha256": "6a18956dfbe56d7b3846892efb2972fc3e2aa0859f4198d0e10f0347278df6be",
+      "size_bytes": 10317,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 268,
+          "line_end": 270,
+          "normalized_sha256": "78fc2edab230e2595e64ec9857737553c56a13956d5eaf6bec6896065e259719",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 269,
+          "line_end": 271,
+          "normalized_sha256": "1365082e6859578df342d1234c49f963c76a42589f10c03b7d5c57590f073252",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "openclaw-fixes/hivemind/hivemind.py",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "a985cbb480f68730f2180ccaf89b1a900f6dde54",
+      "source_blob_sha1": "9891a62dc0c45978936c52dce056db13e86570b3",
+      "source_sha256": "6a9d23fc0900bae3474bb2b41af292a3450fd80ab77b602908d6d417404c803a",
+      "size_bytes": 12358,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 71,
+          "line_end": 73,
+          "normalized_sha256": "a07e2f211e7adb096923b0c1718311a1eaae963fa19fbb35b36bbf26b9848351",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 3,
+          "line_end": 5,
+          "normalized_sha256": "3b7381ff26f7f22aac5b7ad6c8cc34118335010dd62666cf83af31a70590c370",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "openclaw-fixes/literary2-glm5/env_adapter.py",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "a985cbb480f68730f2180ccaf89b1a900f6dde54",
+      "source_blob_sha1": "65a99767f977257566a44ff3a34bf3e52be87d97",
+      "source_sha256": "0e71f6fb91c5abfb91daf366fa4a8fe6902bc88d03b89574120993e2ee44adbb",
+      "size_bytes": 4303,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 98,
+          "line_end": 100,
+          "normalized_sha256": "c0217e7aded5875dedee211c81944263b235d9ab4eb312e3e1c57acc3561aafd",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 6,
+          "line_end": 8,
+          "normalized_sha256": "c7b45b7d0d79a10f46de7b46ff68d1d993163cc1ce0ed710de197780793b63c0",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "openclaw-fixes/scientific-v2-py/enhanced_harvester.py",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "a985cbb480f68730f2180ccaf89b1a900f6dde54",
+      "source_blob_sha1": "ac983606333bbacd2427250b06bb205379c0b28f",
+      "source_sha256": "c4d56bfddcffead420217146b9977d2df952eddd6cdde160b9388c57323f8ab0",
+      "size_bytes": 16853,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 155,
+          "line_end": 157,
+          "normalized_sha256": "65a88ad11b02f700e26444359d72204c4bb0e4dae888bfc2f44559aededa95fd",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 153,
+          "line_end": 155,
+          "normalized_sha256": "2940cea95ade7c848f63c63e200194e37f5e6cf4eb41839e14a9ab7bcb389a24",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "openclaw-fixes/scripts/deploy_fixes.sh",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "a985cbb480f68730f2180ccaf89b1a900f6dde54",
+      "source_blob_sha1": "e5f5a36e83494e66ca0381a00e5c0babae186629",
+      "source_sha256": "365ec97f7a8b2eb255d47d98d5f25c174e799adfd5182894fb3407dc9fafa8ae",
+      "size_bytes": 13053,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 220,
+          "line_end": 222,
+          "normalized_sha256": "a4c9e504d8a0826cb7becdc4c38f38ce8d1c6637483d880bc5e91e628dd73359",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 221,
+          "line_end": 223,
+          "normalized_sha256": "7545e6b7a6065e97ca076fea640ad7334be8fc46ea7ad45505a292679cdfea74",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "render.yaml",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "e114291ab94037b0c06d55c2cc93c6eeb07a11ca",
+      "source_sha256": "4a5df8669b7e8526a023047af30f564e077bf15f96504cc657ae80106810d066",
+      "size_bytes": 320,
+      "distinctive_passage_hashes": []
+    },
+    {
+      "path": "repos/install_all.bat",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "a985cbb480f68730f2180ccaf89b1a900f6dde54",
+      "source_blob_sha1": "0e098b4c1f3590b468db935db132d0e850324847",
+      "source_sha256": "1f31454bc2190ff8a659468a586bcfcf51eb18f4579ba5b9470cfd20f7f59860",
+      "size_bytes": 1832,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 22,
+          "line_end": 24,
+          "normalized_sha256": "42512ec0feb9f7b9356fd7a3be23c09cda2ee10ab67ed26f457222fdd33ddaa4",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 48,
+          "line_end": 50,
+          "normalized_sha256": "9a08bb012f7834fac614f62362f65ba8cb900e16473d42f5b2304463e808bc04",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "repos/launch_network.bat",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "a985cbb480f68730f2180ccaf89b1a900f6dde54",
+      "source_blob_sha1": "c84d61c13300b0d68cccc4a2bbfdfbf77041f03c",
+      "source_sha256": "f1dcfc633491ea98136c7b71bbec35b4aaaebdbf5e2d2d64ab417c0c747edae3",
+      "size_bytes": 1128,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 13,
+          "line_end": 15,
+          "normalized_sha256": "7a1e2934bd04170c6427ce431612640e2910be3721f48be8420c7e69e8954284",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 14,
+          "line_end": 16,
+          "normalized_sha256": "ac0993ccddb1c5beb0a5b2a4698602bd9e92eb58735a9e2fd98db857944d5cd6",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "skills/autonomous-engine/cognitive-agent.ts",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "6262ede21689dbe08a3d3a562e1dec0147d6f8d0",
+      "source_sha256": "844903cbf444cb72475aea7a2bc7ddd96dbbc5372f5d40762c28f6433bf3131e",
+      "size_bytes": 18137,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 410,
+          "line_end": 412,
+          "normalized_sha256": "6442d7f5c56ac09ae4c685a908bd30a2c1c5d44df7b7dffc39df47a5775fc3a0",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 411,
+          "line_end": 413,
+          "normalized_sha256": "eb38eb6ec3f1afa7bdd1b6c77301d5dfc526c9e895a3e3747e69109f7a7ae7a1",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "skills/autonomous-engine/daemon.ps1",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "11531a6cbacb652d4eacf9d543dbc305c62408ae",
+      "source_sha256": "6bef86dfdbc5d0b423c11b81387f69c38950e6449463f1bc18d9047ebf233cfb",
+      "size_bytes": 12276,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 219,
+          "line_end": 221,
+          "normalized_sha256": "2a2056c7d0abd764c9344ffe10cd63c7f162c08abf67fa4327726f5f2e33ef61",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 220,
+          "line_end": 222,
+          "normalized_sha256": "d34f621dff0d1364ac383028ee1c0333d65377b469a218ce99033496309d50e7",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "skills/autonomous-engine/hyperactive_daemon.ps1",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "59764b1930bd63050a7179c185924fbb498394fe",
+      "source_sha256": "1fe02c08537e2f5d26dc079e2060851012ec69965a11319e5e1dfd1bd8800d2d",
+      "size_bytes": 18022,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 191,
+          "line_end": 193,
+          "normalized_sha256": "663190326d7cf0274143f37826869d74425012c3e4f92b922424dd1c5374067a",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 193,
+          "line_end": 195,
+          "normalized_sha256": "93ac8d58eea9b681f627519b8837b0ea60cb09b511c38ca75fa93a31993aeda6",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "skills/autonomous-engine/literary-tasks.ts",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "65f73330190d424665f8ac9010126142e7af1eb3",
+      "source_sha256": "fdec9a81f836529fb65c8c2c20ee9f3063b0c9db40a7795edab3a0831a31eaa5",
+      "size_bytes": 5098,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 12,
+          "line_end": 14,
+          "normalized_sha256": "aba62092f5d6f3b449fa6844e64c7b7f5390805d7d4eba3626a767c551d2c310",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 43,
+          "line_end": 45,
+          "normalized_sha256": "ca456cedcd4f703d305eb6425f83427a0e4a33057c4f22c4b12af83d82c86aaa",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "skills/autonomous-engine/llm-client.ts",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "801e7f9b8e97fe191220285ce9bf08096fb92e29",
+      "source_sha256": "75cfcc47c3396a3d03f031a761e2f50e18bb4583aed69d4ee1b841af367800c3",
+      "size_bytes": 2401,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 27,
+          "line_end": 29,
+          "normalized_sha256": "9dea88e4e30c06915b70b1e812d6fc0fc686febb9eafa67fca9bdaa947ff438b",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 26,
+          "line_end": 28,
+          "normalized_sha256": "f7d9f6f3ad58b9e56327d4f542dac3ad61e2ae9a120cca6e61ee00d3b2f6a49a",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "skills/autonomous-engine/openclaw-agent.ts",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "ca43a272c1d8aedb1009af6209d69411ec861e04",
+      "source_sha256": "d5a4710d3e81ea961474dc7d7093b9f1aca588b21c88973223e9a952915f3d07",
+      "size_bytes": 17997,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 502,
+          "line_end": 504,
+          "normalized_sha256": "ed619db93be855ebf0100537459b62c708906d92f6f4f8899d8d867037800969",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 340,
+          "line_end": 342,
+          "normalized_sha256": "a38d4beaf20337fc967369336d7aa84d43d9be6341c2c16ad62ef4af1b8611c9",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "skills/autonomous-engine/research-scraper.ts",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "bbfb8b6015fe227407f2be29c9c5cdb05f3c5039",
+      "source_sha256": "d519e601b8df95438f44feac91a75ff14cee1b41bb6d3e102793cc032955c6c9",
+      "size_bytes": 12161,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 328,
+          "line_end": 330,
+          "normalized_sha256": "4f7c9277264dc41a3f2fe84559fd9ff45b02af0bb6ce2620d533dedf2d0bd6d6",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 45,
+          "line_end": 47,
+          "normalized_sha256": "d6c51934f5794e9f15a37c0fc4bb5c14e3c6d6c744dc772efc66aa5e03ec82ed",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "skills/autonomous-engine/scripts/autonomous_orchestrator.ps1",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "f8e2407a823bcdd80c9d3e7887586b0e11e4736e",
+      "source_sha256": "bf9e43ba18528e57edccf016c74c9d2d94cae15c14edef4f0b31da1dbeaeca86",
+      "size_bytes": 3903,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 8,
+          "line_end": 10,
+          "normalized_sha256": "3c2d51bd9786996ce026c88889418ab7fa309b8ef774a8ae959ec0321c55cbb8",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 9,
+          "line_end": 11,
+          "normalized_sha256": "a4aad3eec9eaa2341dc60808ed4bfaf875a9b59414cc81ccd8b305241ca485ab",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "skills/autonomous-engine/scripts/github_collaborator.ps1",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "e6478720d86d605643fdd75aed20b2f202fea1ca",
+      "source_sha256": "65ba74f83f8e1a4ad79e5ef10980768ce40cb1999aeb91a5afb6263bc46a3ff5",
+      "size_bytes": 2930,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 42,
+          "line_end": 44,
+          "normalized_sha256": "bd2145f2646e0b58933ef604b5d0830a820e2671ad3b54da67bb0588c3fa8b4b",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 43,
+          "line_end": 45,
+          "normalized_sha256": "c78e1985d7a1286e5d337f7e45d051f3a1dfb2be29a026ef9ce4c314c696f3ca",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "skills/autonomous-engine/status.ps1",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "882d2335dcd6d7eb079bb6cccc1a5901b40a9ba3",
+      "source_sha256": "d09268537170004ed40812a48e03848919a93a5ef4a8e096baf4beb6da433f24",
+      "size_bytes": 1778,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 3,
+          "line_end": 5,
+          "normalized_sha256": "b637c2604293331114dd1c2329e6ab295740835334fb8afe9d83139843cbdba1",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 43,
+          "line_end": 45,
+          "normalized_sha256": "418e7985943dbf48d354a33c0904e8d52431d1b8cb1826b5812b850d8c56ce2a",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "skills/autonomous-engine/stop.ps1",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "fb42878523c3212583e7ddc5994eae5914f07099",
+      "source_sha256": "0b568eb71a4f443ee16f7a3dcb2873767e0de3d292871800346c352d47a62796",
+      "size_bytes": 956,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 6,
+          "line_end": 8,
+          "normalized_sha256": "f23188035729f185d104b6854a3d4679adf7d7d6a1ab95857bf01098f50e3b82",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 15,
+          "line_end": 17,
+          "normalized_sha256": "7ce40fc5df72bb5df0cddb87b94a35942728d70cbae4a03ca2f7f7188f5a0b92",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "skills/autonomous-engine/strategy_reflector.py",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "0d9990c89c3b782e5c29c275c87a39771bd58fec",
+      "source_sha256": "f0bd060348ce6a46853d714a7fbd749e9e21b576948940d89c1d671c8f110629",
+      "size_bytes": 4559,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 77,
+          "line_end": 79,
+          "normalized_sha256": "a6e6e129edac6afc22658eba0c88854f27091be5eb2777b0809f90467323e5e0",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 78,
+          "line_end": 80,
+          "normalized_sha256": "6884fe2c5023d8ff395333c9b3fa8f665db4d658891fb938743511aaaecf31a8",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "skills/autonomous-engine/social-connector.ts",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "36e99052acaa8b6611d867fa238aeb16402101c4",
+      "source_sha256": "298b5ca4f86f2e35e681e44e0a956eb2973ac44e93c9b72715afd48cdb227a7e",
+      "size_bytes": 17737,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 459,
+          "line_end": 461,
+          "normalized_sha256": "84366a463efd99e2f7689bbb1f63cf6eccafc1e4f7c53b39098bf636726d21b6",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 460,
+          "line_end": 462,
+          "normalized_sha256": "d399efdee102b33a6aecc9b697d7b791525bd62a9b1b1d67d0d9579168ddbd23",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "OpenCLAW_Repository_Map (1).md",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "a985cbb480f68730f2180ccaf89b1a900f6dde54",
+      "source_blob_sha1": "93ac10fa37a472b105d3a084ad67d500e98805bc",
+      "source_sha256": "ad7418c9ae6ed57b283b7b5b576d13dd296535767d2d2d0796aedbe438d662a2",
+      "size_bytes": 21436,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 27,
+          "line_end": 29,
+          "normalized_sha256": "b3ca4453d7b064a0be80c0867e3d46834ec9be3327fa05edea718fe57b289e72",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 95,
+          "line_end": 97,
+          "normalized_sha256": "ed98598194ad078a84538dc8e158327a790dcf0d4edb2d3bc3128519b2faf65b",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "P2PCLAW_Verificador_Matematico_Plan.md",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "2c6464a6b2f5b3c22090d8eb50d1126887573784",
+      "source_blob_sha1": "6dc4cb1284ced029dccefb79b5c156d425a4ad95",
+      "source_sha256": "440b6a01a2d5f0bfb841ee35ea7734674dca040cfcd6784f5caee26d25f4e2e2",
+      "size_bytes": 38557,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 13,
+          "line_end": 15,
+          "normalized_sha256": "f1905627165ab7e7b6cc8097674a3ac6133d41c4b47e6000ccf7e8600ed8f32f",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 11,
+          "line_end": 13,
+          "normalized_sha256": "9aabae1a013fa7c2fddd6b45a28c164efac1f0c08140e3257f4c4d12d2b4757e",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "PLAN_P2PCLAW_Agent_Operation_Manual.md",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "2c6464a6b2f5b3c22090d8eb50d1126887573784",
+      "source_blob_sha1": "5ac734a0dc93aa8d0753924c721f7b5f6960919b",
+      "source_sha256": "869eae2d445e6902c752af11dee10b9a55f9cf14c9f936453293e6855f0b3151",
+      "size_bytes": 34558,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 9,
+          "line_end": 11,
+          "normalized_sha256": "bdf3aeedb4b0243182c69d26c56753e79f18d36eeaf88f0d9fa71590dca1b4bf",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 15,
+          "line_end": 17,
+          "normalized_sha256": "fefdf4c9bb29b60cdec6103b5ee4274a920d6b60f6576ab61833ef9b4fd5d8d9",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": ".agents/skills/book-marketing-agent/SKILL.md",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "6f9c6fce06300e67c976ba18d6e0da391f909511",
+      "source_sha256": "2b270e917578fb93df0db9a4edda1d214e96d1721d177fb63bf5f7d54c4185cd",
+      "size_bytes": 32362,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 459,
+          "line_end": 461,
+          "normalized_sha256": "7480e97fa6c63f7a177d21883a45dd69854ecf995fdaf74dea6a42e6ccc7ca0d",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 460,
+          "line_end": 462,
+          "normalized_sha256": "172a88bd8b86ac7a31deb7b8800a29ea0c39a418cdd74fefcb00183102f705a1",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "literary-agent-skill/README.md",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "aa792855c71aed1bf37ff0c69bdd7f5a5abfab7e",
+      "source_sha256": "430449da9f097fe9f5cb6559c9d04085ae7ed3843c996ed7c19adc89b7ef2efc",
+      "size_bytes": 9102,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 9,
+          "line_end": 11,
+          "normalized_sha256": "bace3bf2eccdbd9f950339217ec52dd3bf1bef4c3546c805b2a2aa1c541c7fc3",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 11,
+          "line_end": 13,
+          "normalized_sha256": "18545762c8d62bfc0604cf11f99e4845a93ad444396d4dd48dcc9eb678dd6552",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "literary-agent-skill/SKILL.md",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "d9c645ec9b87a71f917cdac30a75b31f79079bdb",
+      "source_sha256": "3832cb9e3a1e2bd7d45b3957ecb9ce505fb7f703c71408ec09b37ff928c868ba",
+      "size_bytes": 41053,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 58,
+          "line_end": 60,
+          "normalized_sha256": "44ed39eedfe819e4a2eeb98db2a7f5a0858e962009968ea6c002af48cb79fbbd",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 60,
+          "line_end": 62,
+          "normalized_sha256": "215a1d5a1e9ddbd96ab612cce58df32bce23a41e6efd576b38e58779d20ee995",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "p2p_connect.js",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "de8f218bfd90c5bc3a5df748e6494023885e62c2",
+      "source_blob_sha1": "a3b19c5c755e38cbc8c8ec7bfd7bea9cece3a8d3",
+      "source_sha256": "ccd619e3f3f2f9fed88f7c36ba279c9f28e603e4c04ab531c6b793c9874b8ff8",
+      "size_bytes": 2622,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 59,
+          "line_end": 61,
+          "normalized_sha256": "b1dbd4e3cdf9fdd8c606bc7f9d9c1a9cd18098b3a20fbbfcc54a2805c2552a7b",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 74,
+          "line_end": 76,
+          "normalized_sha256": "ac107d22b3b1b342b2580aa79d7ac140b0ad8cc7166c7190d05f03c303aa77c0",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": ".github/workflows/docker-release.yml",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "904e60affd067b259f51c5cb3df3a5f5e7946ceb",
+      "source_blob_sha1": "7f6677b8491ea1ab2e50b83dbca541263e0cadbc",
+      "source_sha256": "679f0555eb38bc688df17d71e943dfe133fb54ddd8d15d0dec56c83e73375929",
+      "size_bytes": 4740,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 118,
+          "line_end": 120,
+          "normalized_sha256": "3884639137bb482bec803e447583066308f915deb6448b57d0c113b662d21f22",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 69,
+          "line_end": 71,
+          "normalized_sha256": "1a415a8111013abc20b469ea388be5f3a23d9fc966d46f00ca9a4081b75f052d",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": ".github/workflows/p2p-alive.yml",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "de8f218bfd90c5bc3a5df748e6494023885e62c2",
+      "source_blob_sha1": "9a8b5a40d5664eb20ef9a640f85f1d3320c0b9f0",
+      "source_sha256": "e8dc29336d59fd650affec03573448f16cae47b25864432bcc0981f929f9610b",
+      "size_bytes": 1274,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 30,
+          "line_end": 32,
+          "normalized_sha256": "bb1afebea1b243d6d3f52a7a548ba81899ed4c073b4044730c2d6d6f48f991dd",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 31,
+          "line_end": 33,
+          "normalized_sha256": "95b134fcf7492aeca4e3a56882c58e29b7b8333385fdbd915142aa762f3a4a1b",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": ".github/workflows/stale.yml",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "cf0d96731ff110bb21ea2a53e1f15a59f41795a3",
+      "source_blob_sha1": "1cc023e0a7082bbbdb753c6ac4b77089a05fa9d4",
+      "source_sha256": "8f67bff8302ca0e78a72fd42efacb64ca294c4a033a1df516d326e94e8e92661",
+      "size_bytes": 2119,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 48,
+          "line_end": 50,
+          "normalized_sha256": "18154349deab1a93520b88dcaa840c85daadf64c8877cee0f17f2448f34040b6",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 47,
+          "line_end": 49,
+          "normalized_sha256": "92b1db4d153a8cf0581caa15872afbb98d32dac2d2b5682354ca3b446a80e471",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "Dockerfile",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "3c8562584348e4583724920cef37d6890ab317c8",
+      "source_sha256": "e422820e56cb55bfd4d8a8e3c41fd5f6db26ae19e1ce65d8505a7bd5f8fe1d75",
+      "size_bytes": 2144,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 26,
+          "line_end": 28,
+          "normalized_sha256": "aee9d1b5dcb90bb778e0581ecbdaf77b4f91f3348ecd062ad95713d1a96e8364",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 25,
+          "line_end": 27,
+          "normalized_sha256": "5ff0f7fedce0c383fbe1aae6db3b6c9f1bbc4de1a33e3c63e173531cfe3f59b8",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "docker-compose.yml",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "8a9083f6e84ccdccefe6e3449f7de4f4f504cfc6",
+      "source_sha256": "6530bfb5587f1b3ce23b115f9e519bf2a3395627a77db4752431a1899a728931",
+      "size_bytes": 3062,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 56,
+          "line_end": 58,
+          "normalized_sha256": "97a8c91bf8b3540f7901f86cf42e9bb5a722afc652e12571e4a51823acbc9031",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 55,
+          "line_end": 57,
+          "normalized_sha256": "866009858a34b825b9d2ea19865b881fee1b8028ff4754abe634be81b89f0b3a",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "infrastructure/docker-compose.yml",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "a985cbb480f68730f2180ccaf89b1a900f6dde54",
+      "source_blob_sha1": "516410349fbe846ddbec4cf37e6573a37ad1069e",
+      "source_sha256": "8060e81b5c5c7d158dbb067ba8eaa8e18ec2bd52ec83515ce9b5eedcd88086af",
+      "size_bytes": 2213,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 14,
+          "line_end": 16,
+          "normalized_sha256": "58da15122b3ad90af679e4502d67e80430c43a322335f3a38d27691e00cc60c7",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 15,
+          "line_end": 17,
+          "normalized_sha256": "e27f44b7ecd632bf2b977742f6ac155134547d6a000cece7cecc164b24098f0d",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "openclaw-fixes/literary-update/.github/workflows/devops-monitor.yml",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "a985cbb480f68730f2180ccaf89b1a900f6dde54",
+      "source_blob_sha1": "f5b1580fa08281808705a1a4a2e1ba68692b7139",
+      "source_sha256": "e616e36935634d0931ed69a3f33641c335987953daf8ad81dfdc861539777d32",
+      "size_bytes": 1963,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 4,
+          "line_end": 6,
+          "normalized_sha256": "172d00718f5f93aabec023e2427520c598b90ae7f721426fee08d493b49a8d6f",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 3,
+          "line_end": 5,
+          "normalized_sha256": "f5235f9878839886d11749129848fcab1ce532778f86a34c349150481c8275ca",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "openclaw-fixes/literary-update/.github/workflows/literary-update.yml",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "a985cbb480f68730f2180ccaf89b1a900f6dde54",
+      "source_blob_sha1": "ca2c7893dabbb8040b2eab736ee6798865216ace",
+      "source_sha256": "e6af7559c7d947955789d53aa1e2b9bcb8af43e7c520d70c2ac51b6ee2788ca3",
+      "size_bytes": 4372,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 109,
+          "line_end": 111,
+          "normalized_sha256": "8422c327f0ff1195f6470124f88a79094659156cf0df4c8bf2e849f79fd899fa",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 1,
+          "line_end": 3,
+          "normalized_sha256": "f5fa4855b8e36390bec4a01a57cd2fb16f82991cc8e6275e9c79a7637c0a591a",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "openclaw-fixes/scientific-v1-ts/.github/workflows/scientific-agent.yml",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "a985cbb480f68730f2180ccaf89b1a900f6dde54",
+      "source_blob_sha1": "f67339563586a3045ba6318ed228a5d4d93466e2",
+      "source_sha256": "a8d2d3f933657219d6f69572cf1f5b41716f333dc7023ce613e28726271e781c",
+      "size_bytes": 2787,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 3,
+          "line_end": 5,
+          "normalized_sha256": "a522798a98c17f0a42d56e7f71a7431ae1699121867ffd131628d1551101ebe7",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 1,
+          "line_end": 3,
+          "normalized_sha256": "1b6741aa44fb971b8a9ac6e5300b2f5521ad75380fba3d4d4799e5f938eb2f2d",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "openclaw-fixes/scientific-v1-ts/package.json",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "a985cbb480f68730f2180ccaf89b1a900f6dde54",
+      "source_blob_sha1": "f054df60eb91c095f92396de0356c88034be89dc",
+      "source_sha256": "5385c6e2facd9186ce2c2ffe87cff5ea3a0a230e8e29916264c096be03a52729",
+      "size_bytes": 624,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 2,
+          "line_end": 4,
+          "normalized_sha256": "9674db72f076c0ee800234466591902f01737b1d879b6a245f7fca147dde4d31",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 3,
+          "line_end": 5,
+          "normalized_sha256": "c0ccd1523ba699c03c67feb4d8e768c009298c5600bc9081b03b4fab70d21618",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "skills/autonomous-engine/start.ps1",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "7818f3312a7a98bd6feae60fd44e368b3f1b8e13",
+      "source_sha256": "db5d003a04dad31c57bb7d1ef368706e9a9ce2833fd0882eb5c41192fc0cc63c",
+      "size_bytes": 391,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 5,
+          "line_end": 7,
+          "normalized_sha256": "b239859c52ffb9ab507f9c1a662717dc182136b6afdc8303e695a892119e55ca",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 4,
+          "line_end": 6,
+          "normalized_sha256": "73fa9e9daea1d8ea755f7b1ee2d8b47a934cbc2786826bffb765973f3db5fd19",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": "skills/autonomous-engine/setup.ps1",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "6e4e6a96f09073558be1690170032676630a8c2a",
+      "source_sha256": "2d75a0c58ca3d12ff7d04bbfeea7594f8f2403db663e6577e869d45acb8a0829",
+      "size_bytes": 13867,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 284,
+          "line_end": 286,
+          "normalized_sha256": "8131b167c8ada38760126c65d6d1ed2f48aac843ded2d739f105133fa1cfc6eb",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 475,
+          "line_end": 477,
+          "normalized_sha256": "5393b92810caec0adca7066da640392b0add33a978b2599ddb4f9753fd4d743a",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": ".agents/skills/book-marketing-agent/CRON.md",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "27e1f8e9a870b4bf0878fdd75a163615ab8ddcca",
+      "source_sha256": "d4abb5d3e70f55bf302537bcafaac902091ed4187b772450dcef9a5d077435ee",
+      "size_bytes": 5707,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 129,
+          "line_end": 131,
+          "normalized_sha256": "5688db7f3bea450fc9c12946c8a443591f58a9f0fa3738e3bb2f40ea48018274",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 19,
+          "line_end": 21,
+          "normalized_sha256": "edba379a39d1ff48a0240a0ec854aa9fcb5a1bd140b0d84c2410f57287a9ed0a",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    },
+    {
+      "path": ".agents/skills/book-marketing-agent/HEARTBEAT.md",
+      "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+      "first_user_change_commit": "1809b86d818bb05f3d5e34b12dabd2c70a6a84fe",
+      "source_blob_sha1": "61f7c704c5480082d787c77961479d9a17f58e67",
+      "source_sha256": "9467099c4fe50406b4880317c580121f301a93f6e5e87979a67ce45a3b371245",
+      "size_bytes": 3040,
+      "distinctive_passage_hashes": [
+        {
+          "line_start": 134,
+          "line_end": 136,
+          "normalized_sha256": "cc3a9c849948449e93a18138e41fc287fe9d145dc869396ac9fe0598a33210f2",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        },
+        {
+          "line_start": 27,
+          "line_end": 29,
+          "normalized_sha256": "5842cac10ec8a31edd3c1eaba3adbc034d974d50c53298fea13aab7682b13dcb",
+          "normalization": "Unicode NFC; line endings normalized; whitespace collapsed"
+        }
+      ]
+    }
+  ]
+}

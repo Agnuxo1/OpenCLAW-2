@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0",
+  "project": "OpenCLAW-2",
+  "author": {
+    "name": "Francisco Angulo de Lafuente",
+    "orcid": "https://orcid.org/0009-0001-1634-7063"
+  },
+  "copyright_year": 2026,
+  "recorded_on": "2026-11-05",
+  "canonical_url": "https://github.com/Agnuxo1/OpenCLAW-2",
+  "baseline": {
+    "source_commit": "1e9b30f052e520227e4a55977640e05a93dfcc47",
+    "upstream_common_ancestor": "5db95cd8d52f30af5535ad6794c4f0b1b3d4be15",
+    "inventory_file": "provenance-baseline.json",
+    "method": "Exact Git blob OID, byte size, SHA-256, plus normalized passage hashes. Original passages are retrievable from the baseline commit and path."
+  },
+  "attribution_policy": "Every listed path has complete path history linked to a user-confirmed account or an explicit existing author credit. Mixed/unlinked histories, sensitive paths, generated material, and unclear authorship are excluded.",
+  "file_records": [
+    {
+      "path": ".agents/skills/book-marketing-agent/agents/openai.yaml",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "unresolved or governed by existing notices"
+    },
+    {
+      "path": ".vscode/settings.json",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "unresolved or governed by existing notices"
+    },
+    {
+      "path": "launch_p2p.ps1",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "unresolved or governed by existing notices"
+    },
+    {
+      "path": "literary-agent-skill/scripts/library_outreach.py",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "MIT"
+    },
+    {
+      "path": "literary-agent-skill/scripts/price_monitor.py",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "MIT"
+    },
+    {
+      "path": "literary-agent-skill/scripts/sales_dashboard.py",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "MIT"
+    },
+    {
+      "path": "literary-agent-skill/scripts/social_content.py",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "MIT"
+    },
+    {
+      "path": "openclaw-fixes/hivemind/devops_agent.py",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "unresolved or governed by existing notices"
+    },
+    {
+      "path": "openclaw-fixes/hivemind/hivemind.py",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "unresolved or governed by existing notices"
+    },
+    {
+      "path": "openclaw-fixes/literary2-glm5/env_adapter.py",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "unresolved or governed by existing notices"
+    },
+    {
+      "path": "openclaw-fixes/scientific-v2-py/enhanced_harvester.py",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "unresolved or governed by existing notices"
+    },
+    {
+      "path": "openclaw-fixes/scripts/deploy_fixes.sh",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "unresolved or governed by existing notices"
+    },
+    {
+      "path": "render.yaml",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "unresolved or governed by existing notices"
+    },
+    {
+      "path": "repos/install_all.bat",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "unresolved or governed by existing notices"
+    },
+    {
+      "path": "repos/launch_network.bat",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "unresolved or governed by existing notices"
+    },
+    {
+      "path": "skills/autonomous-engine/cognitive-agent.ts",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "MIT"
+    },
+    {
+      "path": "skills/autonomous-engine/daemon.ps1",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "MIT"
+    },
+    {
+      "path": "skills/autonomous-engine/hyperactive_daemon.ps1",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "MIT"
+    },
+    {
+      "path": "skills/autonomous-engine/literary-tasks.ts",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "MIT"
+    },
+    {
+      "path": "skills/autonomous-engine/llm-client.ts",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "MIT"
+    },
+    {
+      "path": "skills/autonomous-engine/openclaw-agent.ts",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "MIT"
+    },
+    {
+      "path": "skills/autonomous-engine/research-scraper.ts",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "MIT"
+    },
+    {
+      "path": "skills/autonomous-engine/scripts/autonomous_orchestrator.ps1",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "MIT"
+    },
+    {
+      "path": "skills/autonomous-engine/scripts/github_collaborator.ps1",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "MIT"
+    },
+    {
+      "path": "skills/autonomous-engine/status.ps1",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "MIT"
+    },
+    {
+      "path": "skills/autonomous-engine/stop.ps1",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "MIT"
+    },
+    {
+      "path": "skills/autonomous-engine/strategy_reflector.py",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "MIT"
+    },
+    {
+      "path": "skills/autonomous-engine/social-connector.ts",
+      "credit": "original local contribution by Francisco Angulo de Lafuente",
+      "scope": "this path only",
+      "license": "MIT"
+    },
+    {
+      "path": "OpenCLAW_Repository_Map (1).md",
+      "credit": "Francisco Angulo de Lafuente",
+      "scope": "original local document or skill content; file scope only",
+      "license": "unresolved or existing notices"
+    },
+    {
+      "path": "P2PCLAW_Verificador_Matematico_Plan.md",
+      "credit": "Francisco Angulo de Lafuente",
+      "scope": "co-authored by Francisco Angulo de Lafuente and Richard (Abraxas1010); both credits preserved",
+      "license": "MIT"
+    },
+    {
+      "path": "PLAN_P2PCLAW_Agent_Operation_Manual.md",
+      "credit": "Francisco Angulo de Lafuente",
+      "scope": "existing Francisco/OpenCLAW-P2P attribution preserved",
+      "license": "MIT"
+    },
+    {
+      "path": ".agents/skills/book-marketing-agent/SKILL.md",
+      "credit": "Francisco Angulo de Lafuente",
+      "scope": "original local document or skill content; file scope only",
+      "license": "unresolved or existing notices"
+    },
+    {
+      "path": "literary-agent-skill/README.md",
+      "credit": "Francisco Angulo de Lafuente",
+      "scope": "original local document or skill content; file scope only",
+      "license": "MIT"
+    },
+    {
+      "path": "literary-agent-skill/SKILL.md",
+      "credit": "Francisco Angulo de Lafuente",
+      "scope": "original local document or skill content; file scope only",
+      "license": "MIT"
+    },
+    {
+      "path": "p2p_connect.js",
+      "credit": "Francisco Angulo de Lafuente",
+      "scope": "existing source author attribution; ORCID/date/SPDX added",
+      "license": "MIT"
+    },
+    {
+      "path": ".agents/skills/book-marketing-agent/CRON.md",
+      "credit": "covered by existing book-marketing-agent skill attribution",
+      "scope": "same original skill bundle; no repeated per-file credit inserted",
+      "license": "unresolved or existing notices"
+    },
+    {
+      "path": ".agents/skills/book-marketing-agent/HEARTBEAT.md",
+      "credit": "covered by existing book-marketing-agent skill attribution",
+      "scope": "same original skill bundle; no repeated per-file credit inserted",
+      "license": "unresolved or existing notices"
+    },
+    {
+      "path": ".github/workflows/docker-release.yml",
+      "credit": "local configuration/customization by Francisco Angulo de Lafuente",
+      "scope": "local changes only; not a claim of full-file original authorship",
+      "license": "existing scope retained; no new grant"
+    },
+    {
+      "path": ".github/workflows/p2p-alive.yml",
+      "credit": "local configuration/customization by Francisco Angulo de Lafuente",
+      "scope": "local changes only; not a claim of full-file original authorship",
+      "license": "existing scope retained; no new grant"
+    },
+    {
+      "path": ".github/workflows/stale.yml",
+      "credit": "local configuration/customization by Francisco Angulo de Lafuente",
+      "scope": "local changes only; not a claim of full-file original authorship",
+      "license": "existing scope retained; no new grant"
+    },
+    {
+      "path": "Dockerfile",
+      "credit": "local configuration/customization by Francisco Angulo de Lafuente",
+      "scope": "local changes only; not a claim of full-file original authorship",
+      "license": "existing scope retained; no new grant"
+    },
+    {
+      "path": "docker-compose.yml",
+      "credit": "local configuration/customization by Francisco Angulo de Lafuente",
+      "scope": "local changes only; not a claim of full-file original authorship",
+      "license": "existing scope retained; no new grant"
+    },
+    {
+      "path": "infrastructure/docker-compose.yml",
+      "credit": "local configuration/customization by Francisco Angulo de Lafuente",
+      "scope": "local changes only; not a claim of full-file original authorship",
+      "license": "existing scope retained; no new grant"
+    },
+    {
+      "path": "openclaw-fixes/literary-update/.github/workflows/devops-monitor.yml",
+      "credit": "local configuration/customization by Francisco Angulo de Lafuente",
+      "scope": "local changes only; not a claim of full-file original authorship",
+      "license": "existing scope retained; no new grant"
+    },
+    {
+      "path": "openclaw-fixes/literary-update/.github/workflows/literary-update.yml",
+      "credit": "local configuration/customization by Francisco Angulo de Lafuente",
+      "scope": "local changes only; not a claim of full-file original authorship",
+      "license": "existing scope retained; no new grant"
+    },
+    {
+      "path": "openclaw-fixes/scientific-v1-ts/.github/workflows/scientific-agent.yml",
+      "credit": "local configuration/customization by Francisco Angulo de Lafuente",
+      "scope": "local changes only; not a claim of full-file original authorship",
+      "license": "existing scope retained; no new grant"
+    },
+    {
+      "path": "openclaw-fixes/scientific-v1-ts/package.json",
+      "credit": "local configuration/customization by Francisco Angulo de Lafuente",
+      "scope": "local changes only; not a claim of full-file original authorship",
+      "license": "existing scope retained; no new grant"
+    },
+    {
+      "path": "skills/autonomous-engine/start.ps1",
+      "credit": "local configuration/customization by Francisco Angulo de Lafuente",
+      "scope": "local changes only; not a claim of full-file original authorship",
+      "license": "existing scope retained; no new grant"
+    },
+    {
+      "path": "skills/autonomous-engine/setup.ps1",
+      "credit": "local configuration/customization by Francisco Angulo de Lafuente",
+      "scope": "local changes only; not a claim of full-file original authorship",
+      "license": "existing scope retained; no new grant"
+    }
+  ],
+  "license_scope": [
+    {
+      "path": "LICENSE",
+      "spdx_id": "MIT",
+      "copyright": "Peter Steinberger (2025)",
+      "status": "existing upstream notice preserved; this record does not expand its scope"
+    },
+    {
+      "path": "gh-cli/LICENSE",
+      "spdx_id": "MIT",
+      "copyright": "GitHub Inc. (2019)",
+      "status": "third-party notice preserved unchanged"
+    },
+    {
+      "path": "literary-agent-skill/LICENSE",
+      "spdx_id": "MIT",
+      "copyright": "Francisco Angulo de Lafuente (2026)",
+      "status": "existing component license preserved; any third-party notices retain their own scope"
+    },
+    {
+      "path": "p2p_connect.js",
+      "spdx_id": "MIT",
+      "status": "existing file-level MIT notice preserved and made machine-readable"
+    },
+    {
+      "path": "skills/autonomous-engine/package.json",
+      "spdx_id": "MIT",
+      "existing_author": "OpenCLAW Team",
+      "status": "existing package metadata preserved; author field not overwritten"
+    },
+    {
+      "path": "other local contributions",
+      "license": "unresolved or determined by existing file-level terms",
+      "status": "no SPDX identifier or new license grant added"
+    }
+  ],
+  "reuse_note": "This repository includes MIT-licensed components identified in provenance.json. When redistributing copies or substantial portions of those components, retain their copyright and permission notices. If you build on those components, cite this record and credit Francisco Angulo de Lafuente (ORCID: 0009-0001-1634-7063). This note does not grant a license to any other file; preserve each file's existing license and notices. Help advance scientific knowledge: we welcome reproducible results, corrections, and contributions.",
+  "limitations": [
+    "This is not a repository-wide authorship or license claim.",
+    "The original OpenClaw README and upstream code remain attributed under their existing notices.",
+    "Unresolved author, security, personal-data, and generated-content items are omitted and remain pending."
+  ]
+}
