@@ -37,6 +37,10 @@ New install? Start here: [Getting started](https://docs.openclaw.ai/start/gettin
 
 Model note: while any model is supported, I strongly recommend **Anthropic Pro/Max (100/200) + Opus 4.6** for long‑context strength and better prompt‑injection resistance. See [Onboarding](https://docs.openclaw.ai/start/onboarding).
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This integration repository combines upstream OpenClaw infrastructure with a map of research components and project-specific agent workspaces. Its practical value is to make existing tools and experiments available for reuse within coordinated agent workflows, reducing repeated discovery and integration effort. The <a href="provenance.json">provenance record</a> separates contributions, while the repository map remains a development roadmap rather than a demonstrated AGI result.</sub>
+<!-- impact-note:end -->
+
 ## Models (selection + auth)
 
 - Models config + CLI: [Models](https://docs.openclaw.ai/concepts/models)
